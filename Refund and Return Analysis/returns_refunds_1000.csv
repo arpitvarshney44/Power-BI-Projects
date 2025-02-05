@@ -1,0 +1,1001 @@
+Order ID,Customer ID,Product Name,Category,Order Date,Return Date,Return Reason,Refund Amount,Processing Time (Days),Customer Type,Region
+1001,C7618,Water Purifier,Home & Kitchen,2024-01-03,2024-01-16,Wrong Size,5999,9,Returning,Mumbai
+1002,C8448,Denim Jacket,Fashion,2024-01-21,2024-02-01,Other,1999,3,New,Delhi
+1003,C5932,Football,Sports,2024-01-27,2024-02-01,Late Delivery,799,7,Returning,Bangalore
+1004,C1166,Wireless Mouse,Electronics,2024-01-21,2024-01-30,Other,599,4,Returning,Mumbai
+1005,C9960,Laptop Cooling Pad,Electronics,2024-01-29,2024-02-11,Wrong Size,1299,10,Returning,Ahmedabad
+1006,C3156,Laptop Cooling Pad,Electronics,2024-01-30,2024-02-09,Other,1299,8,New,Bangalore
+1007,C2683,Football,Sports,2024-01-01,2024-01-13,Wrong Product,799,4,New,Delhi
+1008,C9493,Science Fiction,Books,2024-01-28,2024-02-07,Other,699,7,New,Bangalore
+1009,C4723,Science Fiction,Books,2024-01-13,2024-01-25,Late Delivery,699,6,New,Chennai
+1010,C1986,Pressure Cooker,Home & Kitchen,2024-01-08,2024-01-21,Defective,2499,9,Returning,Kolkata
+1011,C1871,Yoga Mat,Sports,2024-01-09,2024-01-17,Wrong Size,599,4,Returning,Chennai
+1012,C4353,Yoga Mat,Sports,2024-01-14,2024-01-24,Defective,599,8,Returning,Pune
+1013,C4504,Dumbbells,Sports,2024-01-08,2024-01-23,Late Delivery,2999,5,Returning,Delhi
+1014,C2770,History of India,Books,2024-01-09,2024-01-16,Wrong Product,999,3,Returning,Bangalore
+1015,C7005,Sunglasses,Fashion,2024-01-22,2024-01-30,Defective,999,8,New,Ahmedabad
+1016,C9863,Dumbbells,Sports,2024-01-17,2024-01-27,Defective,2999,8,Returning,Mumbai
+1017,C6364,Pressure Cooker,Home & Kitchen,2024-01-20,2024-01-29,Wrong Product,2499,9,Returning,Chennai
+1018,C8217,Yoga Mat,Sports,2024-01-09,2024-01-15,Late Delivery,599,10,Returning,Kolkata
+1019,C2535,Self-Help Guide,Books,2024-01-18,2024-01-23,Other,499,7,Returning,Chennai
+1020,C6167,Leather Wallet,Fashion,2024-01-20,2024-01-25,Wrong Size,899,9,New,Hyderabad
+1021,C8234,Laptop Cooling Pad,Electronics,2024-01-24,2024-02-01,Other,1299,8,New,Mumbai
+1022,C1265,Denim Jacket,Fashion,2024-01-20,2024-02-03,Defective,1999,4,Returning,Kolkata
+1023,C1049,Business Strategies,Books,2024-01-09,2024-01-14,Late Delivery,899,5,New,Pune
+1024,C6575,History of India,Books,2024-01-16,2024-01-25,Wrong Size,999,3,Returning,Mumbai
+1025,C3672,Science Fiction,Books,2024-01-08,2024-01-22,Late Delivery,699,5,New,Pune
+1026,C3720,Water Purifier,Home & Kitchen,2024-01-04,2024-01-15,Defective,5999,3,New,Bangalore
+1027,C2776,Water Purifier,Home & Kitchen,2024-01-06,2024-01-20,Wrong Size,5999,10,Returning,Pune
+1028,C2997,Laptop Cooling Pad,Electronics,2024-01-24,2024-02-02,Defective,1299,9,Returning,Ahmedabad
+1029,C3331,Laptop Cooling Pad,Electronics,2024-01-13,2024-01-24,Wrong Product,1299,10,New,Chennai
+1030,C6206,Football,Sports,2024-01-06,2024-01-14,Other,799,3,Returning,Mumbai
+1031,C8445,Badminton Racket,Sports,2024-01-23,2024-02-06,Wrong Size,1299,7,New,Mumbai
+1032,C2658,Leather Wallet,Fashion,2024-01-26,2024-02-01,Other,899,4,Returning,Pune
+1033,C5156,Science Fiction,Books,2024-01-13,2024-01-19,Late Delivery,699,7,New,Chennai
+1034,C8007,Running Shoes,Fashion,2024-01-02,2024-01-13,Wrong Product,1499,5,New,Bangalore
+1035,C2410,Leather Wallet,Fashion,2024-01-23,2024-01-28,Late Delivery,899,3,Returning,Mumbai
+1036,C5045,Running Shoes,Fashion,2024-01-12,2024-01-18,Wrong Size,1499,10,Returning,Chennai
+1037,C4413,Air Fryer,Home & Kitchen,2024-01-28,2024-02-09,Wrong Product,4999,8,New,Mumbai
+1038,C8925,Bluetooth Headphones,Electronics,2024-01-28,2024-02-07,Other,1999,5,New,Chennai
+1039,C9481,Laptop Cooling Pad,Electronics,2024-01-11,2024-01-24,Late Delivery,1299,8,New,Mumbai
+1040,C3903,Badminton Racket,Sports,2024-01-18,2024-01-31,Defective,1299,10,Returning,Bangalore
+1041,C8851,Pressure Cooker,Home & Kitchen,2024-01-26,2024-02-07,Wrong Product,2499,3,Returning,Chennai
+1042,C8121,Science Fiction,Books,2024-01-28,2024-02-05,Other,699,9,Returning,Pune
+1043,C2251,Laptop Cooling Pad,Electronics,2024-01-01,2024-01-14,Wrong Size,1299,4,New,Bangalore
+1044,C1156,Pressure Cooker,Home & Kitchen,2024-01-04,2024-01-19,Wrong Product,2499,8,New,Ahmedabad
+1045,C2463,Badminton Racket,Sports,2024-01-31,2024-02-10,Defective,1299,3,New,Delhi
+1046,C8318,Sunglasses,Fashion,2024-01-02,2024-01-12,Other,999,7,Returning,Pune
+1047,C1976,Air Fryer,Home & Kitchen,2024-01-10,2024-01-15,Late Delivery,4999,10,New,Pune
+1048,C2597,History of India,Books,2024-01-08,2024-01-16,Wrong Size,999,4,New,Ahmedabad
+1049,C2000,Water Purifier,Home & Kitchen,2024-01-09,2024-01-20,Late Delivery,5999,3,Returning,Chennai
+1050,C8063,Bluetooth Headphones,Electronics,2024-01-22,2024-01-27,Late Delivery,1999,5,Returning,Ahmedabad
+1051,C7808,Leather Wallet,Fashion,2024-01-14,2024-01-23,Wrong Size,899,8,Returning,Chennai
+1052,C7103,Pressure Cooker,Home & Kitchen,2024-01-24,2024-02-03,Late Delivery,2499,5,New,Kolkata
+1053,C4648,Vacuum Cleaner,Home & Kitchen,2024-01-11,2024-01-23,Late Delivery,3999,3,New,Mumbai
+1054,C2909,Laptop Cooling Pad,Electronics,2024-01-09,2024-01-19,Wrong Product,1299,7,Returning,Ahmedabad
+1055,C8665,Self-Help Guide,Books,2024-01-25,2024-01-30,Late Delivery,499,5,New,Bangalore
+1056,C7986,Yoga Mat,Sports,2024-01-17,2024-02-01,Wrong Product,599,3,Returning,Chennai
+1057,C1119,Laptop Cooling Pad,Electronics,2024-01-26,2024-02-07,Defective,1299,10,New,Bangalore
+1058,C1141,Yoga Mat,Sports,2024-01-11,2024-01-18,Other,599,5,New,Kolkata
+1059,C4175,Sunglasses,Fashion,2024-01-14,2024-01-23,Other,999,6,Returning,Bangalore
+1060,C1784,Badminton Racket,Sports,2024-01-26,2024-02-10,Defective,1299,5,New,Kolkata
+1061,C9024,Pressure Cooker,Home & Kitchen,2024-01-18,2024-01-26,Other,2499,7,Returning,Ahmedabad
+1062,C3279,Dumbbells,Sports,2024-01-12,2024-01-17,Defective,2999,9,Returning,Delhi
+1063,C6189,Vacuum Cleaner,Home & Kitchen,2024-01-10,2024-01-20,Wrong Size,3999,7,New,Pune
+1064,C4501,Yoga Mat,Sports,2024-01-06,2024-01-15,Other,599,9,New,Bangalore
+1065,C1808,Denim Jacket,Fashion,2024-01-17,2024-02-01,Defective,1999,4,New,Hyderabad
+1066,C7518,Dumbbells,Sports,2024-01-24,2024-02-01,Late Delivery,2999,3,Returning,Ahmedabad
+1067,C3160,Sunglasses,Fashion,2024-01-14,2024-01-21,Wrong Product,999,8,Returning,Mumbai
+1068,C7874,Pressure Cooker,Home & Kitchen,2024-01-05,2024-01-16,Defective,2499,4,New,Hyderabad
+1069,C4744,History of India,Books,2024-01-29,2024-02-12,Wrong Product,999,4,New,Kolkata
+1070,C5172,Dumbbells,Sports,2024-01-01,2024-01-06,Defective,2999,4,Returning,Hyderabad
+1071,C4522,Vacuum Cleaner,Home & Kitchen,2024-01-19,2024-02-01,Wrong Product,3999,10,New,Kolkata
+1072,C2227,Leather Wallet,Fashion,2024-01-01,2024-01-07,Other,899,3,Returning,Hyderabad
+1073,C8573,Badminton Racket,Sports,2024-01-28,2024-02-04,Wrong Product,1299,3,Returning,Hyderabad
+1074,C5937,Badminton Racket,Sports,2024-01-02,2024-01-11,Wrong Size,1299,4,New,Kolkata
+1075,C6173,Self-Help Guide,Books,2024-01-22,2024-02-05,Wrong Size,499,4,New,Mumbai
+1076,C1713,Water Purifier,Home & Kitchen,2024-01-04,2024-01-17,Late Delivery,5999,10,New,Mumbai
+1077,C7570,Pressure Cooker,Home & Kitchen,2024-01-30,2024-02-05,Other,2499,6,New,Hyderabad
+1078,C6823,Yoga Mat,Sports,2024-01-04,2024-01-16,Defective,599,10,Returning,Mumbai
+1079,C3543,History of India,Books,2024-01-14,2024-01-22,Late Delivery,999,6,Returning,Mumbai
+1080,C4818,Bluetooth Headphones,Electronics,2024-01-07,2024-01-19,Wrong Product,1999,4,Returning,Mumbai
+1081,C9673,Business Strategies,Books,2024-01-06,2024-01-16,Defective,899,10,New,Ahmedabad
+1082,C4476,Vacuum Cleaner,Home & Kitchen,2024-01-10,2024-01-22,Wrong Size,3999,8,Returning,Mumbai
+1083,C4633,Sunglasses,Fashion,2024-01-01,2024-01-16,Late Delivery,999,4,New,Pune
+1084,C4220,Leather Wallet,Fashion,2024-01-14,2024-01-20,Wrong Size,899,9,New,Kolkata
+1085,C1136,Science Fiction,Books,2024-01-19,2024-02-02,Late Delivery,699,10,New,Mumbai
+1086,C8131,Football,Sports,2024-01-07,2024-01-16,Defective,799,7,Returning,Bangalore
+1087,C1204,Business Strategies,Books,2024-01-05,2024-01-15,Late Delivery,899,5,New,Hyderabad
+1088,C2017,Science Fiction,Books,2024-01-19,2024-01-27,Other,699,9,New,Delhi
+1089,C9877,Pressure Cooker,Home & Kitchen,2024-01-11,2024-01-18,Late Delivery,2499,8,New,Delhi
+1090,C1947,Sunglasses,Fashion,2024-01-29,2024-02-05,Defective,999,3,Returning,Bangalore
+1091,C1889,Wireless Mouse,Electronics,2024-01-27,2024-02-06,Late Delivery,599,6,New,Delhi
+1092,C4293,Air Fryer,Home & Kitchen,2024-01-27,2024-02-03,Other,4999,5,New,Mumbai
+1093,C6708,Bluetooth Headphones,Electronics,2024-01-29,2024-02-06,Wrong Size,1999,5,New,Kolkata
+1094,C6614,Bluetooth Headphones,Electronics,2024-01-29,2024-02-07,Wrong Product,1999,4,New,Kolkata
+1095,C4068,Running Shoes,Fashion,2024-01-21,2024-02-04,Wrong Size,1499,8,New,Hyderabad
+1096,C2439,Football,Sports,2024-01-12,2024-01-22,Other,799,4,Returning,Delhi
+1097,C3687,Bluetooth Headphones,Electronics,2024-01-19,2024-02-03,Defective,1999,8,Returning,Chennai
+1098,C2920,Running Shoes,Fashion,2024-01-18,2024-01-23,Late Delivery,1499,4,Returning,Delhi
+1099,C8245,Pressure Cooker,Home & Kitchen,2024-01-29,2024-02-10,Wrong Size,2499,3,New,Pune
+1100,C4129,Yoga Mat,Sports,2024-01-08,2024-01-13,Defective,599,8,New,Chennai
+1101,C2339,History of India,Books,2024-01-25,2024-02-04,Defective,999,5,Returning,Hyderabad
+1102,C1937,Pressure Cooker,Home & Kitchen,2024-01-31,2024-02-09,Wrong Size,2499,6,Returning,Mumbai
+1103,C4726,History of India,Books,2024-01-18,2024-02-01,Defective,999,6,Returning,Mumbai
+1104,C8881,Bluetooth Headphones,Electronics,2024-01-03,2024-01-14,Wrong Size,1999,3,Returning,Ahmedabad
+1105,C6637,Badminton Racket,Sports,2024-01-04,2024-01-14,Wrong Size,1299,7,New,Chennai
+1106,C3266,Smartwatch,Electronics,2024-01-12,2024-01-27,Other,2999,6,Returning,Kolkata
+1107,C2124,Pressure Cooker,Home & Kitchen,2024-01-17,2024-01-22,Other,2499,8,New,Mumbai
+1108,C4104,Wireless Mouse,Electronics,2024-01-29,2024-02-12,Defective,599,10,Returning,Delhi
+1109,C9829,Denim Jacket,Fashion,2024-01-31,2024-02-08,Wrong Product,1999,4,Returning,Ahmedabad
+1110,C4984,Laptop Cooling Pad,Electronics,2024-01-29,2024-02-04,Other,1299,7,Returning,Mumbai
+1111,C6443,Leather Wallet,Fashion,2024-01-24,2024-01-31,Other,899,4,Returning,Kolkata
+1112,C6419,Dumbbells,Sports,2024-01-30,2024-02-08,Wrong Size,2999,3,New,Pune
+1113,C3433,Air Fryer,Home & Kitchen,2024-01-23,2024-01-31,Defective,4999,10,Returning,Chennai
+1114,C7564,Denim Jacket,Fashion,2024-01-05,2024-01-20,Wrong Size,1999,5,New,Ahmedabad
+1115,C4881,Air Fryer,Home & Kitchen,2024-01-05,2024-01-16,Defective,4999,10,New,Kolkata
+1116,C6296,Water Purifier,Home & Kitchen,2024-01-12,2024-01-17,Other,5999,3,Returning,Mumbai
+1117,C6977,Wireless Mouse,Electronics,2024-01-12,2024-01-20,Other,599,5,New,Kolkata
+1118,C6619,Bluetooth Headphones,Electronics,2024-01-16,2024-01-26,Wrong Product,1999,9,Returning,Kolkata
+1119,C3303,Business Strategies,Books,2024-01-14,2024-01-22,Other,899,4,Returning,Mumbai
+1120,C2777,Water Purifier,Home & Kitchen,2024-01-12,2024-01-23,Late Delivery,5999,4,Returning,Kolkata
+1121,C1387,Leather Wallet,Fashion,2024-01-07,2024-01-15,Wrong Size,899,4,New,Ahmedabad
+1122,C3100,Denim Jacket,Fashion,2024-01-03,2024-01-14,Late Delivery,1999,6,New,Delhi
+1123,C9226,History of India,Books,2024-01-15,2024-01-23,Other,999,4,New,Bangalore
+1124,C5205,Dumbbells,Sports,2024-01-18,2024-01-28,Wrong Size,2999,7,New,Bangalore
+1125,C8542,Self-Help Guide,Books,2024-01-06,2024-01-19,Defective,499,7,New,Bangalore
+1126,C1781,Running Shoes,Fashion,2024-01-12,2024-01-21,Defective,1499,3,Returning,Chennai
+1127,C1366,Water Purifier,Home & Kitchen,2024-01-09,2024-01-20,Late Delivery,5999,6,Returning,Ahmedabad
+1128,C3935,Football,Sports,2024-01-26,2024-01-31,Late Delivery,799,3,Returning,Ahmedabad
+1129,C8000,Sunglasses,Fashion,2024-01-10,2024-01-23,Other,999,9,Returning,Pune
+1130,C6877,Leather Wallet,Fashion,2024-01-30,2024-02-08,Defective,899,8,New,Ahmedabad
+1131,C7586,Sunglasses,Fashion,2024-01-15,2024-01-27,Other,999,6,Returning,Hyderabad
+1132,C7837,Self-Help Guide,Books,2024-01-10,2024-01-23,Wrong Size,499,7,New,Bangalore
+1133,C7289,Badminton Racket,Sports,2024-01-14,2024-01-21,Defective,1299,7,Returning,Kolkata
+1134,C8503,Wireless Mouse,Electronics,2024-01-08,2024-01-16,Wrong Size,599,7,New,Bangalore
+1135,C2322,Dumbbells,Sports,2024-01-26,2024-02-04,Wrong Product,2999,7,New,Kolkata
+1136,C7764,Dumbbells,Sports,2024-01-13,2024-01-20,Late Delivery,2999,9,New,Chennai
+1137,C6649,Air Fryer,Home & Kitchen,2024-01-17,2024-01-24,Wrong Product,4999,9,New,Chennai
+1138,C2242,History of India,Books,2024-01-07,2024-01-17,Defective,999,6,Returning,Ahmedabad
+1139,C7058,Laptop Cooling Pad,Electronics,2024-01-13,2024-01-21,Other,1299,6,New,Bangalore
+1140,C5057,Science Fiction,Books,2024-01-06,2024-01-15,Wrong Product,699,4,Returning,Delhi
+1141,C8686,Laptop Cooling Pad,Electronics,2024-01-16,2024-01-21,Defective,1299,7,New,Kolkata
+1142,C1586,Wireless Mouse,Electronics,2024-01-15,2024-01-21,Wrong Size,599,10,New,Ahmedabad
+1143,C2874,Leather Wallet,Fashion,2024-01-24,2024-02-08,Late Delivery,899,8,Returning,Kolkata
+1144,C7206,Yoga Mat,Sports,2024-01-03,2024-01-09,Late Delivery,599,4,Returning,Chennai
+1145,C2726,Business Strategies,Books,2024-01-30,2024-02-13,Defective,899,7,Returning,Ahmedabad
+1146,C9033,Yoga Mat,Sports,2024-01-07,2024-01-22,Defective,599,3,Returning,Mumbai
+1147,C7409,Water Purifier,Home & Kitchen,2024-01-06,2024-01-14,Defective,5999,3,Returning,Pune
+1148,C2747,Smartwatch,Electronics,2024-01-20,2024-02-03,Wrong Size,2999,8,Returning,Delhi
+1149,C3019,Self-Help Guide,Books,2024-01-10,2024-01-21,Other,499,10,Returning,Bangalore
+1150,C7415,Wireless Mouse,Electronics,2024-01-07,2024-01-14,Wrong Size,599,3,New,Delhi
+1151,C7175,Leather Wallet,Fashion,2024-01-07,2024-01-12,Other,899,9,Returning,Mumbai
+1152,C1840,Laptop Cooling Pad,Electronics,2024-01-20,2024-01-25,Wrong Product,1299,8,New,Ahmedabad
+1153,C5865,Leather Wallet,Fashion,2024-01-27,2024-02-11,Defective,899,10,New,Hyderabad
+1154,C6288,Air Fryer,Home & Kitchen,2024-01-23,2024-02-03,Wrong Product,4999,9,New,Bangalore
+1155,C3732,Badminton Racket,Sports,2024-01-30,2024-02-09,Wrong Product,1299,9,Returning,Bangalore
+1156,C4754,Leather Wallet,Fashion,2024-01-09,2024-01-14,Wrong Size,899,10,Returning,Mumbai
+1157,C7887,Football,Sports,2024-01-22,2024-01-28,Wrong Size,799,3,Returning,Delhi
+1158,C8711,Running Shoes,Fashion,2024-01-06,2024-01-17,Late Delivery,1499,9,New,Pune
+1159,C9310,Leather Wallet,Fashion,2024-01-06,2024-01-14,Wrong Size,899,4,New,Chennai
+1160,C4962,Pressure Cooker,Home & Kitchen,2024-01-06,2024-01-13,Wrong Size,2499,9,New,Mumbai
+1161,C7092,Laptop Cooling Pad,Electronics,2024-01-18,2024-01-25,Wrong Size,1299,5,Returning,Bangalore
+1162,C4196,Science Fiction,Books,2024-01-03,2024-01-18,Late Delivery,699,6,Returning,Kolkata
+1163,C9766,Pressure Cooker,Home & Kitchen,2024-01-03,2024-01-13,Other,2499,10,Returning,Pune
+1164,C9956,Leather Wallet,Fashion,2024-01-24,2024-02-01,Defective,899,4,New,Pune
+1165,C1870,Self-Help Guide,Books,2024-01-09,2024-01-18,Wrong Size,499,8,New,Bangalore
+1166,C3681,Air Fryer,Home & Kitchen,2024-01-17,2024-01-29,Other,4999,10,Returning,Delhi
+1167,C9598,Laptop Cooling Pad,Electronics,2024-01-02,2024-01-16,Wrong Product,1299,4,New,Mumbai
+1168,C3025,Science Fiction,Books,2024-01-29,2024-02-04,Defective,699,4,New,Bangalore
+1169,C7962,Vacuum Cleaner,Home & Kitchen,2024-01-26,2024-02-10,Wrong Size,3999,3,Returning,Ahmedabad
+1170,C8559,Pressure Cooker,Home & Kitchen,2024-01-02,2024-01-16,Other,2499,6,New,Delhi
+1171,C2670,Yoga Mat,Sports,2024-01-22,2024-02-04,Late Delivery,599,8,Returning,Delhi
+1172,C6969,Self-Help Guide,Books,2024-01-21,2024-01-30,Late Delivery,499,9,Returning,Chennai
+1173,C4943,Air Fryer,Home & Kitchen,2024-01-29,2024-02-05,Wrong Product,4999,8,New,Hyderabad
+1174,C1394,Yoga Mat,Sports,2024-01-08,2024-01-21,Late Delivery,599,7,New,Pune
+1175,C9103,Football,Sports,2024-01-29,2024-02-06,Other,799,5,Returning,Bangalore
+1176,C5796,Wireless Mouse,Electronics,2024-01-29,2024-02-10,Wrong Size,599,3,Returning,Bangalore
+1177,C6489,Sunglasses,Fashion,2024-01-12,2024-01-23,Late Delivery,999,6,Returning,Chennai
+1178,C2428,Yoga Mat,Sports,2024-01-16,2024-01-31,Other,599,7,Returning,Ahmedabad
+1179,C5232,Badminton Racket,Sports,2024-01-27,2024-02-02,Other,1299,6,Returning,Kolkata
+1180,C4890,Business Strategies,Books,2024-01-16,2024-01-23,Other,899,10,New,Kolkata
+1181,C3413,Self-Help Guide,Books,2024-01-20,2024-02-04,Other,499,8,Returning,Delhi
+1182,C2517,Smartwatch,Electronics,2024-01-01,2024-01-08,Wrong Product,2999,4,New,Chennai
+1183,C3796,Bluetooth Headphones,Electronics,2024-01-08,2024-01-16,Late Delivery,1999,5,New,Bangalore
+1184,C1330,Yoga Mat,Sports,2024-01-04,2024-01-19,Wrong Size,599,6,Returning,Pune
+1185,C2251,Badminton Racket,Sports,2024-01-26,2024-02-05,Other,1299,8,New,Bangalore
+1186,C5466,Yoga Mat,Sports,2024-01-14,2024-01-27,Late Delivery,599,5,New,Bangalore
+1187,C6015,Air Fryer,Home & Kitchen,2024-01-29,2024-02-10,Late Delivery,4999,7,Returning,Kolkata
+1188,C2189,Yoga Mat,Sports,2024-01-23,2024-01-30,Other,599,4,Returning,Hyderabad
+1189,C6753,Business Strategies,Books,2024-01-06,2024-01-12,Defective,899,10,New,Ahmedabad
+1190,C9527,Laptop Cooling Pad,Electronics,2024-01-26,2024-02-01,Late Delivery,1299,4,Returning,Mumbai
+1191,C3590,Football,Sports,2024-01-04,2024-01-14,Defective,799,4,New,Chennai
+1192,C4702,Vacuum Cleaner,Home & Kitchen,2024-01-09,2024-01-23,Wrong Size,3999,4,Returning,Delhi
+1193,C5758,Denim Jacket,Fashion,2024-01-02,2024-01-12,Wrong Size,1999,4,Returning,Mumbai
+1194,C1683,Pressure Cooker,Home & Kitchen,2024-01-22,2024-01-29,Wrong Size,2499,3,New,Bangalore
+1195,C2802,Yoga Mat,Sports,2024-01-01,2024-01-08,Wrong Size,599,7,New,Pune
+1196,C5656,History of India,Books,2024-01-18,2024-01-24,Late Delivery,999,9,New,Mumbai
+1197,C5614,Vacuum Cleaner,Home & Kitchen,2024-01-30,2024-02-05,Late Delivery,3999,7,Returning,Ahmedabad
+1198,C8339,Smartwatch,Electronics,2024-01-06,2024-01-18,Late Delivery,2999,3,New,Mumbai
+1199,C7505,Badminton Racket,Sports,2024-01-25,2024-01-31,Wrong Size,1299,7,New,Kolkata
+1200,C8866,Laptop Cooling Pad,Electronics,2024-01-22,2024-01-29,Other,1299,10,Returning,Ahmedabad
+1201,C9531,Badminton Racket,Sports,2024-01-28,2024-02-12,Late Delivery,1299,7,New,Bangalore
+1202,C7106,Dumbbells,Sports,2024-01-14,2024-01-24,Late Delivery,2999,4,New,Hyderabad
+1203,C8814,Running Shoes,Fashion,2024-01-04,2024-01-18,Wrong Size,1499,8,Returning,Bangalore
+1204,C8808,Water Purifier,Home & Kitchen,2024-01-25,2024-02-02,Wrong Size,5999,5,Returning,Kolkata
+1205,C4510,Bluetooth Headphones,Electronics,2024-01-09,2024-01-24,Wrong Product,1999,5,Returning,Mumbai
+1206,C2275,Science Fiction,Books,2024-01-20,2024-01-29,Wrong Product,699,9,Returning,Pune
+1207,C5027,Wireless Mouse,Electronics,2024-01-01,2024-01-16,Defective,599,8,New,Pune
+1208,C3327,Denim Jacket,Fashion,2024-01-20,2024-01-29,Wrong Size,1999,3,New,Chennai
+1209,C9566,Dumbbells,Sports,2024-01-25,2024-02-08,Defective,2999,8,New,Hyderabad
+1210,C7307,Denim Jacket,Fashion,2024-01-17,2024-01-29,Other,1999,6,New,Kolkata
+1211,C3716,Denim Jacket,Fashion,2024-01-21,2024-01-27,Late Delivery,1999,7,Returning,Ahmedabad
+1212,C7093,Denim Jacket,Fashion,2024-01-11,2024-01-20,Defective,1999,8,Returning,Chennai
+1213,C2838,Laptop Cooling Pad,Electronics,2024-01-13,2024-01-22,Other,1299,4,New,Pune
+1214,C5232,Vacuum Cleaner,Home & Kitchen,2024-01-27,2024-02-11,Late Delivery,3999,7,Returning,Mumbai
+1215,C7711,Badminton Racket,Sports,2024-01-29,2024-02-12,Late Delivery,1299,4,Returning,Hyderabad
+1216,C9423,Running Shoes,Fashion,2024-01-23,2024-02-05,Wrong Size,1499,8,New,Bangalore
+1217,C8635,Football,Sports,2024-01-15,2024-01-28,Other,799,4,Returning,Chennai
+1218,C2946,Bluetooth Headphones,Electronics,2024-01-03,2024-01-18,Wrong Size,1999,3,Returning,Mumbai
+1219,C5501,Sunglasses,Fashion,2024-01-11,2024-01-16,Defective,999,9,New,Pune
+1220,C2230,Bluetooth Headphones,Electronics,2024-01-01,2024-01-11,Defective,1999,8,Returning,Ahmedabad
+1221,C4930,Smartwatch,Electronics,2024-01-09,2024-01-24,Wrong Size,2999,10,Returning,Pune
+1222,C5665,Laptop Cooling Pad,Electronics,2024-01-26,2024-02-08,Other,1299,4,Returning,Chennai
+1223,C2026,Smartwatch,Electronics,2024-01-18,2024-01-28,Wrong Product,2999,9,New,Ahmedabad
+1224,C4668,Badminton Racket,Sports,2024-01-03,2024-01-18,Late Delivery,1299,10,Returning,Mumbai
+1225,C5099,Smartwatch,Electronics,2024-01-12,2024-01-25,Wrong Product,2999,8,Returning,Hyderabad
+1226,C9961,History of India,Books,2024-01-30,2024-02-14,Wrong Product,999,3,Returning,Chennai
+1227,C3933,Football,Sports,2024-01-01,2024-01-15,Wrong Product,799,10,Returning,Mumbai
+1228,C5792,Science Fiction,Books,2024-01-21,2024-01-27,Wrong Product,699,3,New,Kolkata
+1229,C3921,Denim Jacket,Fashion,2024-01-01,2024-01-16,Other,1999,10,Returning,Hyderabad
+1230,C9335,Smartwatch,Electronics,2024-01-25,2024-02-07,Wrong Size,2999,3,Returning,Delhi
+1231,C8333,Laptop Cooling Pad,Electronics,2024-01-13,2024-01-25,Defective,1299,8,New,Bangalore
+1232,C5950,Bluetooth Headphones,Electronics,2024-01-24,2024-02-02,Wrong Size,1999,6,New,Delhi
+1233,C2902,Sunglasses,Fashion,2024-01-15,2024-01-29,Wrong Product,999,7,Returning,Bangalore
+1234,C7282,Sunglasses,Fashion,2024-01-02,2024-01-10,Other,999,4,Returning,Bangalore
+1235,C5318,Dumbbells,Sports,2024-01-25,2024-02-05,Other,2999,5,New,Mumbai
+1236,C4610,Denim Jacket,Fashion,2024-01-18,2024-01-27,Defective,1999,10,New,Ahmedabad
+1237,C1422,Denim Jacket,Fashion,2024-01-04,2024-01-13,Wrong Size,1999,5,New,Pune
+1238,C5062,Laptop Cooling Pad,Electronics,2024-01-09,2024-01-14,Wrong Size,1299,9,Returning,Ahmedabad
+1239,C4678,Air Fryer,Home & Kitchen,2024-01-27,2024-02-05,Defective,4999,8,Returning,Hyderabad
+1240,C5159,Football,Sports,2024-01-19,2024-01-28,Late Delivery,799,7,Returning,Mumbai
+1241,C1413,Denim Jacket,Fashion,2024-01-13,2024-01-26,Defective,1999,8,New,Pune
+1242,C9003,Science Fiction,Books,2024-01-15,2024-01-26,Late Delivery,699,7,Returning,Mumbai
+1243,C9376,Wireless Mouse,Electronics,2024-01-08,2024-01-21,Wrong Size,599,7,Returning,Bangalore
+1244,C6381,Leather Wallet,Fashion,2024-01-22,2024-01-31,Defective,899,5,New,Hyderabad
+1245,C6539,Science Fiction,Books,2024-01-01,2024-01-10,Defective,699,9,New,Kolkata
+1246,C9212,Wireless Mouse,Electronics,2024-01-31,2024-02-13,Late Delivery,599,6,New,Ahmedabad
+1247,C7861,Wireless Mouse,Electronics,2024-01-07,2024-01-22,Other,599,6,Returning,Chennai
+1248,C7407,Business Strategies,Books,2024-01-31,2024-02-12,Other,899,7,Returning,Delhi
+1249,C4565,Pressure Cooker,Home & Kitchen,2024-01-07,2024-01-16,Defective,2499,3,Returning,Ahmedabad
+1250,C5822,Bluetooth Headphones,Electronics,2024-01-01,2024-01-15,Defective,1999,6,New,Hyderabad
+1251,C5742,Laptop Cooling Pad,Electronics,2024-01-09,2024-01-15,Other,1299,6,Returning,Hyderabad
+1252,C3492,Badminton Racket,Sports,2024-01-28,2024-02-03,Wrong Size,1299,6,Returning,Mumbai
+1253,C6987,Running Shoes,Fashion,2024-01-27,2024-02-10,Other,1499,7,Returning,Chennai
+1254,C5858,Laptop Cooling Pad,Electronics,2024-01-26,2024-01-31,Defective,1299,7,Returning,Delhi
+1255,C4656,History of India,Books,2024-01-09,2024-01-15,Other,999,5,Returning,Kolkata
+1256,C4605,Yoga Mat,Sports,2024-01-06,2024-01-19,Other,599,10,Returning,Mumbai
+1257,C4009,Denim Jacket,Fashion,2024-01-10,2024-01-23,Other,1999,5,New,Kolkata
+1258,C4047,Water Purifier,Home & Kitchen,2024-01-29,2024-02-09,Wrong Size,5999,9,New,Delhi
+1259,C9473,Sunglasses,Fashion,2024-01-30,2024-02-07,Wrong Size,999,8,New,Bangalore
+1260,C3935,Running Shoes,Fashion,2024-01-10,2024-01-18,Other,1499,8,Returning,Bangalore
+1261,C5246,Laptop Cooling Pad,Electronics,2024-01-26,2024-02-02,Other,1299,9,New,Pune
+1262,C6357,Denim Jacket,Fashion,2024-01-19,2024-02-01,Late Delivery,1999,6,Returning,Bangalore
+1263,C9145,Self-Help Guide,Books,2024-01-12,2024-01-27,Late Delivery,499,8,Returning,Ahmedabad
+1264,C7176,Sunglasses,Fashion,2024-01-22,2024-01-30,Late Delivery,999,3,New,Mumbai
+1265,C9072,Laptop Cooling Pad,Electronics,2024-01-02,2024-01-14,Other,1299,5,New,Pune
+1266,C4209,Football,Sports,2024-01-08,2024-01-16,Other,799,4,Returning,Mumbai
+1267,C6526,Leather Wallet,Fashion,2024-01-03,2024-01-17,Late Delivery,899,4,Returning,Pune
+1268,C9706,Science Fiction,Books,2024-01-27,2024-02-04,Wrong Product,699,5,New,Bangalore
+1269,C6272,Laptop Cooling Pad,Electronics,2024-01-07,2024-01-13,Wrong Size,1299,6,New,Kolkata
+1270,C5340,Laptop Cooling Pad,Electronics,2024-01-09,2024-01-24,Other,1299,6,New,Bangalore
+1271,C6523,Vacuum Cleaner,Home & Kitchen,2024-01-11,2024-01-21,Late Delivery,3999,4,Returning,Pune
+1272,C1078,Sunglasses,Fashion,2024-01-24,2024-02-02,Wrong Size,999,9,Returning,Delhi
+1273,C1175,Dumbbells,Sports,2024-01-23,2024-01-28,Other,2999,8,Returning,Hyderabad
+1274,C9641,Bluetooth Headphones,Electronics,2024-01-22,2024-01-29,Defective,1999,8,Returning,Ahmedabad
+1275,C5375,Running Shoes,Fashion,2024-01-14,2024-01-28,Wrong Size,1499,10,New,Chennai
+1276,C1187,Smartwatch,Electronics,2024-01-22,2024-01-30,Wrong Size,2999,7,Returning,Bangalore
+1277,C8274,Sunglasses,Fashion,2024-01-08,2024-01-23,Wrong Product,999,8,New,Hyderabad
+1278,C8816,Self-Help Guide,Books,2024-01-08,2024-01-14,Defective,499,3,Returning,Ahmedabad
+1279,C1035,Laptop Cooling Pad,Electronics,2024-01-11,2024-01-20,Wrong Product,1299,4,New,Hyderabad
+1280,C8198,Bluetooth Headphones,Electronics,2024-01-20,2024-01-29,Wrong Product,1999,3,New,Pune
+1281,C6780,Badminton Racket,Sports,2024-01-31,2024-02-07,Late Delivery,1299,5,Returning,Pune
+1282,C8573,Sunglasses,Fashion,2024-01-11,2024-01-17,Wrong Size,999,8,New,Pune
+1283,C9266,Denim Jacket,Fashion,2024-01-28,2024-02-09,Wrong Product,1999,6,Returning,Chennai
+1284,C5384,Denim Jacket,Fashion,2024-01-06,2024-01-15,Defective,1999,7,New,Pune
+1285,C7021,Sunglasses,Fashion,2024-01-10,2024-01-23,Other,999,8,Returning,Bangalore
+1286,C2946,Business Strategies,Books,2024-01-27,2024-02-03,Late Delivery,899,7,New,Kolkata
+1287,C3997,Badminton Racket,Sports,2024-01-25,2024-02-09,Late Delivery,1299,9,New,Delhi
+1288,C9310,Bluetooth Headphones,Electronics,2024-01-28,2024-02-12,Wrong Size,1999,5,New,Ahmedabad
+1289,C9421,Laptop Cooling Pad,Electronics,2024-01-24,2024-02-05,Wrong Product,1299,5,Returning,Delhi
+1290,C5008,Science Fiction,Books,2024-01-30,2024-02-13,Other,699,7,New,Pune
+1291,C7949,Yoga Mat,Sports,2024-01-21,2024-01-29,Defective,599,6,Returning,Pune
+1292,C7390,Laptop Cooling Pad,Electronics,2024-01-05,2024-01-14,Late Delivery,1299,10,New,Ahmedabad
+1293,C4217,Self-Help Guide,Books,2024-01-14,2024-01-28,Late Delivery,499,3,New,Delhi
+1294,C6278,Badminton Racket,Sports,2024-01-09,2024-01-18,Wrong Product,1299,6,Returning,Pune
+1295,C9181,Dumbbells,Sports,2024-01-24,2024-02-02,Wrong Product,2999,6,New,Pune
+1296,C3100,Leather Wallet,Fashion,2024-01-10,2024-01-17,Other,899,3,Returning,Pune
+1297,C7790,History of India,Books,2024-01-07,2024-01-19,Late Delivery,999,9,New,Hyderabad
+1298,C1957,Laptop Cooling Pad,Electronics,2024-01-21,2024-02-05,Late Delivery,1299,8,Returning,Bangalore
+1299,C8628,Bluetooth Headphones,Electronics,2024-01-04,2024-01-19,Defective,1999,8,Returning,Mumbai
+1300,C3657,Football,Sports,2024-01-15,2024-01-26,Late Delivery,799,5,New,Ahmedabad
+1301,C3105,History of India,Books,2024-01-28,2024-02-10,Late Delivery,999,4,New,Chennai
+1302,C3859,Pressure Cooker,Home & Kitchen,2024-01-18,2024-01-27,Wrong Size,2499,3,Returning,Kolkata
+1303,C3676,Water Purifier,Home & Kitchen,2024-01-28,2024-02-10,Wrong Size,5999,10,Returning,Ahmedabad
+1304,C7022,History of India,Books,2024-01-20,2024-01-28,Wrong Product,999,8,Returning,Pune
+1305,C3225,Self-Help Guide,Books,2024-01-18,2024-01-26,Wrong Size,499,8,New,Pune
+1306,C7731,Leather Wallet,Fashion,2024-01-10,2024-01-22,Wrong Size,899,7,New,Chennai
+1307,C2485,Science Fiction,Books,2024-01-18,2024-01-25,Other,699,10,New,Hyderabad
+1308,C2017,Yoga Mat,Sports,2024-01-17,2024-01-23,Wrong Product,599,5,New,Hyderabad
+1309,C2582,Dumbbells,Sports,2024-01-24,2024-02-05,Late Delivery,2999,8,New,Mumbai
+1310,C8858,Football,Sports,2024-01-02,2024-01-13,Other,799,5,Returning,Pune
+1311,C3542,Laptop Cooling Pad,Electronics,2024-01-20,2024-01-27,Other,1299,4,New,Delhi
+1312,C4559,Football,Sports,2024-01-19,2024-01-28,Wrong Size,799,5,New,Hyderabad
+1313,C3579,Laptop Cooling Pad,Electronics,2024-01-11,2024-01-23,Defective,1299,7,Returning,Mumbai
+1314,C4190,Vacuum Cleaner,Home & Kitchen,2024-01-31,2024-02-11,Defective,3999,3,New,Ahmedabad
+1315,C8977,Dumbbells,Sports,2024-01-16,2024-01-25,Other,2999,8,New,Bangalore
+1316,C3531,Laptop Cooling Pad,Electronics,2024-01-22,2024-02-02,Other,1299,10,Returning,Hyderabad
+1317,C9829,Science Fiction,Books,2024-01-23,2024-02-06,Wrong Product,699,5,Returning,Delhi
+1318,C7641,Smartwatch,Electronics,2024-01-22,2024-01-27,Late Delivery,2999,8,Returning,Pune
+1319,C6350,Science Fiction,Books,2024-01-09,2024-01-24,Defective,699,9,Returning,Ahmedabad
+1320,C1576,Running Shoes,Fashion,2024-01-27,2024-02-08,Wrong Product,1499,6,New,Pune
+1321,C6515,Vacuum Cleaner,Home & Kitchen,2024-01-13,2024-01-25,Other,3999,5,Returning,Hyderabad
+1322,C2616,Yoga Mat,Sports,2024-01-29,2024-02-10,Wrong Size,599,10,New,Mumbai
+1323,C9370,Football,Sports,2024-01-27,2024-02-09,Wrong Size,799,6,Returning,Mumbai
+1324,C1116,Wireless Mouse,Electronics,2024-01-19,2024-02-02,Late Delivery,599,6,New,Mumbai
+1325,C2752,Business Strategies,Books,2024-01-24,2024-01-31,Wrong Size,899,10,New,Chennai
+1326,C8283,Badminton Racket,Sports,2024-01-13,2024-01-28,Defective,1299,3,New,Kolkata
+1327,C2723,Science Fiction,Books,2024-01-24,2024-02-05,Defective,699,7,New,Kolkata
+1328,C3400,Leather Wallet,Fashion,2024-01-15,2024-01-22,Wrong Size,899,5,New,Hyderabad
+1329,C1855,Vacuum Cleaner,Home & Kitchen,2024-01-27,2024-02-05,Wrong Size,3999,9,Returning,Delhi
+1330,C9187,Wireless Mouse,Electronics,2024-01-23,2024-01-28,Late Delivery,599,9,New,Hyderabad
+1331,C3197,Vacuum Cleaner,Home & Kitchen,2024-01-26,2024-02-03,Wrong Product,3999,5,Returning,Chennai
+1332,C2033,Wireless Mouse,Electronics,2024-01-09,2024-01-18,Wrong Size,599,4,New,Ahmedabad
+1333,C6087,Laptop Cooling Pad,Electronics,2024-01-30,2024-02-04,Wrong Product,1299,3,New,Pune
+1334,C2151,Dumbbells,Sports,2024-01-15,2024-01-27,Late Delivery,2999,7,Returning,Bangalore
+1335,C5095,Pressure Cooker,Home & Kitchen,2024-01-27,2024-02-03,Defective,2499,8,New,Ahmedabad
+1336,C7913,Water Purifier,Home & Kitchen,2024-01-05,2024-01-13,Wrong Size,5999,6,New,Mumbai
+1337,C6116,Pressure Cooker,Home & Kitchen,2024-01-24,2024-01-31,Wrong Product,2499,8,New,Chennai
+1338,C4746,Dumbbells,Sports,2024-01-16,2024-01-29,Defective,2999,4,New,Mumbai
+1339,C4159,Denim Jacket,Fashion,2024-01-22,2024-01-31,Wrong Product,1999,3,Returning,Hyderabad
+1340,C2882,Self-Help Guide,Books,2024-01-27,2024-02-05,Wrong Size,499,10,New,Pune
+1341,C2341,Laptop Cooling Pad,Electronics,2024-01-02,2024-01-13,Wrong Product,1299,5,Returning,Kolkata
+1342,C1230,History of India,Books,2024-01-25,2024-02-06,Wrong Product,999,5,Returning,Ahmedabad
+1343,C3499,Wireless Mouse,Electronics,2024-01-21,2024-02-03,Wrong Product,599,4,New,Ahmedabad
+1344,C3570,Laptop Cooling Pad,Electronics,2024-01-29,2024-02-13,Wrong Size,1299,5,Returning,Mumbai
+1345,C6568,History of India,Books,2024-01-03,2024-01-14,Wrong Size,999,10,New,Kolkata
+1346,C1575,Smartwatch,Electronics,2024-01-25,2024-01-31,Other,2999,6,New,Delhi
+1347,C7026,Sunglasses,Fashion,2024-01-29,2024-02-12,Other,999,5,New,Hyderabad
+1348,C7291,Pressure Cooker,Home & Kitchen,2024-01-09,2024-01-23,Wrong Product,2499,5,New,Chennai
+1349,C5567,Pressure Cooker,Home & Kitchen,2024-01-06,2024-01-13,Wrong Product,2499,4,Returning,Ahmedabad
+1350,C9598,Leather Wallet,Fashion,2024-01-03,2024-01-10,Wrong Product,899,9,New,Chennai
+1351,C9938,Self-Help Guide,Books,2024-01-23,2024-01-31,Wrong Size,499,7,Returning,Chennai
+1352,C2736,Smartwatch,Electronics,2024-01-18,2024-01-29,Defective,2999,5,Returning,Kolkata
+1353,C8688,Sunglasses,Fashion,2024-01-18,2024-01-23,Wrong Product,999,10,Returning,Bangalore
+1354,C1292,Water Purifier,Home & Kitchen,2024-01-15,2024-01-21,Defective,5999,5,Returning,Mumbai
+1355,C6271,Running Shoes,Fashion,2024-01-13,2024-01-21,Late Delivery,1499,7,Returning,Mumbai
+1356,C5840,Leather Wallet,Fashion,2024-01-23,2024-02-05,Wrong Size,899,3,New,Delhi
+1357,C1492,History of India,Books,2024-01-07,2024-01-12,Other,999,6,New,Mumbai
+1358,C2192,Bluetooth Headphones,Electronics,2024-01-01,2024-01-15,Late Delivery,1999,4,Returning,Chennai
+1359,C9149,Leather Wallet,Fashion,2024-01-20,2024-02-03,Defective,899,4,New,Hyderabad
+1360,C7041,Sunglasses,Fashion,2024-01-02,2024-01-12,Wrong Product,999,4,Returning,Pune
+1361,C5268,Pressure Cooker,Home & Kitchen,2024-01-29,2024-02-13,Wrong Size,2499,3,New,Bangalore
+1362,C9198,Running Shoes,Fashion,2024-01-09,2024-01-15,Defective,1499,8,Returning,Mumbai
+1363,C3953,Yoga Mat,Sports,2024-01-24,2024-01-31,Wrong Product,599,4,New,Chennai
+1364,C9485,Denim Jacket,Fashion,2024-01-06,2024-01-13,Wrong Product,1999,6,New,Delhi
+1365,C5928,Self-Help Guide,Books,2024-01-05,2024-01-17,Other,499,5,Returning,Ahmedabad
+1366,C6817,Dumbbells,Sports,2024-01-22,2024-01-31,Wrong Product,2999,5,Returning,Mumbai
+1367,C7941,Vacuum Cleaner,Home & Kitchen,2024-01-29,2024-02-10,Other,3999,7,Returning,Kolkata
+1368,C9020,Smartwatch,Electronics,2024-01-15,2024-01-22,Wrong Size,2999,10,New,Ahmedabad
+1369,C7530,Business Strategies,Books,2024-01-27,2024-02-05,Other,899,10,New,Kolkata
+1370,C5608,Denim Jacket,Fashion,2024-01-23,2024-01-31,Other,1999,7,New,Hyderabad
+1371,C9287,Denim Jacket,Fashion,2024-01-28,2024-02-04,Other,1999,6,Returning,Bangalore
+1372,C4398,Badminton Racket,Sports,2024-01-24,2024-02-08,Wrong Product,1299,8,New,Delhi
+1373,C2264,Laptop Cooling Pad,Electronics,2024-01-04,2024-01-10,Other,1299,10,Returning,Hyderabad
+1374,C3526,Running Shoes,Fashion,2024-01-07,2024-01-13,Wrong Size,1499,6,New,Hyderabad
+1375,C2355,Yoga Mat,Sports,2024-01-23,2024-01-31,Defective,599,8,Returning,Chennai
+1376,C4310,Laptop Cooling Pad,Electronics,2024-01-25,2024-01-31,Wrong Size,1299,8,Returning,Chennai
+1377,C9480,Dumbbells,Sports,2024-01-12,2024-01-19,Late Delivery,2999,10,New,Pune
+1378,C8635,Dumbbells,Sports,2024-01-02,2024-01-09,Wrong Size,2999,6,New,Chennai
+1379,C9920,Wireless Mouse,Electronics,2024-01-17,2024-01-28,Other,599,4,New,Ahmedabad
+1380,C7111,Vacuum Cleaner,Home & Kitchen,2024-01-28,2024-02-07,Wrong Product,3999,6,Returning,Bangalore
+1381,C2702,Smartwatch,Electronics,2024-01-03,2024-01-17,Defective,2999,3,New,Kolkata
+1382,C4313,Science Fiction,Books,2024-01-17,2024-01-25,Wrong Size,699,6,Returning,Hyderabad
+1383,C4535,Laptop Cooling Pad,Electronics,2024-01-26,2024-02-04,Other,1299,6,Returning,Bangalore
+1384,C1288,Wireless Mouse,Electronics,2024-01-24,2024-02-05,Wrong Size,599,5,New,Kolkata
+1385,C6158,Pressure Cooker,Home & Kitchen,2024-01-21,2024-01-28,Wrong Product,2499,4,New,Chennai
+1386,C7403,Science Fiction,Books,2024-01-09,2024-01-18,Wrong Product,699,3,Returning,Kolkata
+1387,C8608,Pressure Cooker,Home & Kitchen,2024-01-28,2024-02-05,Wrong Size,2499,6,Returning,Bangalore
+1388,C1625,Self-Help Guide,Books,2024-01-21,2024-02-04,Wrong Product,499,6,New,Hyderabad
+1389,C1971,Laptop Cooling Pad,Electronics,2024-01-22,2024-01-31,Defective,1299,10,New,Chennai
+1390,C1495,Bluetooth Headphones,Electronics,2024-01-12,2024-01-18,Late Delivery,1999,5,New,Pune
+1391,C9354,Smartwatch,Electronics,2024-01-28,2024-02-12,Defective,2999,7,New,Chennai
+1392,C1472,Dumbbells,Sports,2024-01-12,2024-01-18,Defective,2999,3,New,Hyderabad
+1393,C8340,Sunglasses,Fashion,2024-01-24,2024-01-29,Wrong Product,999,7,New,Bangalore
+1394,C7087,Science Fiction,Books,2024-01-15,2024-01-25,Other,699,5,Returning,Kolkata
+1395,C1466,Badminton Racket,Sports,2024-01-09,2024-01-17,Defective,1299,8,New,Pune
+1396,C5515,Bluetooth Headphones,Electronics,2024-01-04,2024-01-15,Defective,1999,3,New,Pune
+1397,C8267,Business Strategies,Books,2024-01-14,2024-01-27,Defective,899,3,New,Mumbai
+1398,C8720,Football,Sports,2024-01-20,2024-01-31,Wrong Size,799,10,Returning,Hyderabad
+1399,C7248,Sunglasses,Fashion,2024-01-01,2024-01-14,Wrong Product,999,5,Returning,Mumbai
+1400,C8566,Badminton Racket,Sports,2024-01-17,2024-01-28,Wrong Size,1299,9,Returning,Kolkata
+1401,C7479,Vacuum Cleaner,Home & Kitchen,2024-01-06,2024-01-14,Defective,3999,10,New,Chennai
+1402,C8514,Air Fryer,Home & Kitchen,2024-01-15,2024-01-26,Other,4999,3,Returning,Ahmedabad
+1403,C6792,Vacuum Cleaner,Home & Kitchen,2024-01-13,2024-01-20,Other,3999,6,Returning,Hyderabad
+1404,C6138,Self-Help Guide,Books,2024-01-03,2024-01-14,Wrong Product,499,5,New,Pune
+1405,C4115,Yoga Mat,Sports,2024-01-15,2024-01-29,Other,599,9,New,Ahmedabad
+1406,C4237,Football,Sports,2024-01-17,2024-01-29,Late Delivery,799,7,Returning,Mumbai
+1407,C4141,Denim Jacket,Fashion,2024-01-04,2024-01-17,Wrong Product,1999,6,New,Mumbai
+1408,C1891,Vacuum Cleaner,Home & Kitchen,2024-01-08,2024-01-18,Wrong Size,3999,8,New,Bangalore
+1409,C7924,History of India,Books,2024-01-12,2024-01-18,Other,999,7,New,Delhi
+1410,C5078,Smartwatch,Electronics,2024-01-12,2024-01-18,Other,2999,5,New,Kolkata
+1411,C9220,Self-Help Guide,Books,2024-01-11,2024-01-19,Other,499,8,New,Mumbai
+1412,C1930,Business Strategies,Books,2024-01-12,2024-01-23,Defective,899,9,Returning,Hyderabad
+1413,C8530,Running Shoes,Fashion,2024-01-25,2024-02-04,Late Delivery,1499,3,New,Chennai
+1414,C9524,Running Shoes,Fashion,2024-01-29,2024-02-06,Wrong Size,1499,3,New,Kolkata
+1415,C1840,Bluetooth Headphones,Electronics,2024-01-03,2024-01-13,Other,1999,5,Returning,Chennai
+1416,C2663,History of India,Books,2024-01-03,2024-01-13,Wrong Size,999,4,Returning,Hyderabad
+1417,C8628,Science Fiction,Books,2024-01-13,2024-01-26,Other,699,5,Returning,Delhi
+1418,C2038,Air Fryer,Home & Kitchen,2024-01-03,2024-01-17,Wrong Product,4999,3,New,Mumbai
+1419,C5754,Smartwatch,Electronics,2024-01-17,2024-01-27,Wrong Product,2999,4,Returning,Kolkata
+1420,C2704,Bluetooth Headphones,Electronics,2024-01-18,2024-02-01,Wrong Size,1999,7,Returning,Delhi
+1421,C8688,Laptop Cooling Pad,Electronics,2024-01-17,2024-01-22,Defective,1299,6,Returning,Pune
+1422,C9563,Air Fryer,Home & Kitchen,2024-01-02,2024-01-09,Late Delivery,4999,7,New,Delhi
+1423,C8906,Science Fiction,Books,2024-01-27,2024-02-08,Late Delivery,699,10,Returning,Delhi
+1424,C8046,Smartwatch,Electronics,2024-01-10,2024-01-25,Late Delivery,2999,8,Returning,Kolkata
+1425,C4969,Football,Sports,2024-01-03,2024-01-10,Wrong Product,799,8,New,Mumbai
+1426,C9621,Denim Jacket,Fashion,2024-01-08,2024-01-22,Wrong Size,1999,6,Returning,Kolkata
+1427,C1245,Science Fiction,Books,2024-01-20,2024-01-26,Other,699,6,New,Kolkata
+1428,C4696,Running Shoes,Fashion,2024-01-06,2024-01-11,Wrong Product,1499,4,New,Delhi
+1429,C6803,Bluetooth Headphones,Electronics,2024-01-23,2024-01-29,Late Delivery,1999,5,New,Delhi
+1430,C6828,Denim Jacket,Fashion,2024-01-03,2024-01-18,Wrong Product,1999,9,New,Bangalore
+1431,C8349,Laptop Cooling Pad,Electronics,2024-01-03,2024-01-08,Wrong Product,1299,6,Returning,Bangalore
+1432,C8771,Yoga Mat,Sports,2024-01-08,2024-01-16,Wrong Size,599,4,Returning,Ahmedabad
+1433,C8212,Pressure Cooker,Home & Kitchen,2024-01-02,2024-01-10,Other,2499,4,New,Hyderabad
+1434,C2384,Leather Wallet,Fashion,2024-01-05,2024-01-16,Defective,899,10,Returning,Mumbai
+1435,C7895,Vacuum Cleaner,Home & Kitchen,2024-01-30,2024-02-13,Defective,3999,4,New,Mumbai
+1436,C3349,Smartwatch,Electronics,2024-01-29,2024-02-03,Late Delivery,2999,10,New,Kolkata
+1437,C7121,Bluetooth Headphones,Electronics,2024-01-10,2024-01-21,Wrong Product,1999,8,Returning,Mumbai
+1438,C2827,Business Strategies,Books,2024-01-11,2024-01-26,Other,899,9,Returning,Mumbai
+1439,C1284,Self-Help Guide,Books,2024-01-26,2024-02-07,Late Delivery,499,9,Returning,Ahmedabad
+1440,C1194,Dumbbells,Sports,2024-01-30,2024-02-08,Other,2999,6,Returning,Mumbai
+1441,C4051,Pressure Cooker,Home & Kitchen,2024-01-08,2024-01-23,Defective,2499,6,New,Delhi
+1442,C9340,Air Fryer,Home & Kitchen,2024-01-25,2024-02-01,Defective,4999,5,New,Delhi
+1443,C1471,Pressure Cooker,Home & Kitchen,2024-01-11,2024-01-22,Other,2499,9,New,Chennai
+1444,C4508,Smartwatch,Electronics,2024-01-11,2024-01-25,Other,2999,3,New,Mumbai
+1445,C8335,Self-Help Guide,Books,2024-01-19,2024-02-02,Wrong Product,499,10,New,Bangalore
+1446,C9446,Water Purifier,Home & Kitchen,2024-01-04,2024-01-17,Defective,5999,6,Returning,Delhi
+1447,C1682,Wireless Mouse,Electronics,2024-01-09,2024-01-20,Defective,599,9,Returning,Delhi
+1448,C8278,Pressure Cooker,Home & Kitchen,2024-01-30,2024-02-12,Defective,2499,4,Returning,Mumbai
+1449,C7824,Air Fryer,Home & Kitchen,2024-01-04,2024-01-15,Late Delivery,4999,4,New,Hyderabad
+1450,C6026,Laptop Cooling Pad,Electronics,2024-01-08,2024-01-19,Other,1299,6,Returning,Ahmedabad
+1451,C9817,Wireless Mouse,Electronics,2024-01-07,2024-01-22,Wrong Size,599,10,Returning,Delhi
+1452,C1914,Water Purifier,Home & Kitchen,2024-01-21,2024-02-05,Wrong Product,5999,7,Returning,Kolkata
+1453,C4315,Leather Wallet,Fashion,2024-01-07,2024-01-22,Late Delivery,899,10,New,Pune
+1454,C5915,Business Strategies,Books,2024-01-12,2024-01-20,Other,899,4,Returning,Pune
+1455,C1717,Wireless Mouse,Electronics,2024-01-17,2024-01-25,Wrong Product,599,3,New,Delhi
+1456,C6491,Science Fiction,Books,2024-01-27,2024-02-09,Other,699,3,Returning,Pune
+1457,C6043,Leather Wallet,Fashion,2024-01-05,2024-01-19,Late Delivery,899,7,New,Delhi
+1458,C1909,Wireless Mouse,Electronics,2024-01-03,2024-01-09,Other,599,6,Returning,Ahmedabad
+1459,C9138,Yoga Mat,Sports,2024-01-08,2024-01-18,Defective,599,9,Returning,Ahmedabad
+1460,C6295,Yoga Mat,Sports,2024-01-28,2024-02-06,Late Delivery,599,8,Returning,Kolkata
+1461,C3823,Denim Jacket,Fashion,2024-01-07,2024-01-17,Wrong Size,1999,4,New,Hyderabad
+1462,C3563,Smartwatch,Electronics,2024-01-22,2024-02-06,Late Delivery,2999,3,Returning,Kolkata
+1463,C6969,Vacuum Cleaner,Home & Kitchen,2024-01-03,2024-01-12,Defective,3999,4,Returning,Mumbai
+1464,C3446,Water Purifier,Home & Kitchen,2024-01-26,2024-02-05,Wrong Product,5999,9,New,Ahmedabad
+1465,C6079,Football,Sports,2024-01-10,2024-01-16,Other,799,5,New,Chennai
+1466,C6069,Wireless Mouse,Electronics,2024-01-04,2024-01-15,Other,599,8,New,Chennai
+1467,C9344,Dumbbells,Sports,2024-01-28,2024-02-09,Late Delivery,2999,10,Returning,Chennai
+1468,C7517,Running Shoes,Fashion,2024-01-31,2024-02-15,Defective,1499,5,New,Mumbai
+1469,C1785,Air Fryer,Home & Kitchen,2024-01-28,2024-02-10,Defective,4999,5,New,Delhi
+1470,C1514,Leather Wallet,Fashion,2024-01-25,2024-02-05,Late Delivery,899,6,Returning,Ahmedabad
+1471,C8305,Bluetooth Headphones,Electronics,2024-01-02,2024-01-17,Wrong Product,1999,6,New,Mumbai
+1472,C4586,Running Shoes,Fashion,2024-01-02,2024-01-16,Wrong Product,1499,8,Returning,Hyderabad
+1473,C8991,Leather Wallet,Fashion,2024-01-06,2024-01-11,Wrong Size,899,7,New,Kolkata
+1474,C9121,Dumbbells,Sports,2024-01-26,2024-02-01,Defective,2999,5,Returning,Delhi
+1475,C9081,Denim Jacket,Fashion,2024-01-17,2024-01-26,Wrong Product,1999,4,Returning,Ahmedabad
+1476,C4597,Yoga Mat,Sports,2024-01-25,2024-02-01,Defective,599,4,New,Pune
+1477,C3470,Yoga Mat,Sports,2024-01-24,2024-02-02,Late Delivery,599,6,New,Pune
+1478,C8843,History of India,Books,2024-01-21,2024-02-05,Late Delivery,999,8,New,Ahmedabad
+1479,C8617,Denim Jacket,Fashion,2024-01-08,2024-01-20,Wrong Product,1999,7,New,Delhi
+1480,C9521,Laptop Cooling Pad,Electronics,2024-01-21,2024-01-27,Other,1299,4,New,Delhi
+1481,C1236,Water Purifier,Home & Kitchen,2024-01-23,2024-01-31,Wrong Product,5999,10,Returning,Chennai
+1482,C5364,Sunglasses,Fashion,2024-01-11,2024-01-24,Late Delivery,999,4,Returning,Ahmedabad
+1483,C6594,Vacuum Cleaner,Home & Kitchen,2024-01-14,2024-01-22,Wrong Size,3999,7,Returning,Delhi
+1484,C4190,Denim Jacket,Fashion,2024-01-09,2024-01-23,Wrong Product,1999,9,New,Chennai
+1485,C8691,Wireless Mouse,Electronics,2024-01-31,2024-02-07,Late Delivery,599,5,New,Mumbai
+1486,C8594,Water Purifier,Home & Kitchen,2024-01-29,2024-02-11,Wrong Product,5999,4,New,Pune
+1487,C4822,Air Fryer,Home & Kitchen,2024-01-28,2024-02-08,Late Delivery,4999,10,New,Bangalore
+1488,C1616,Water Purifier,Home & Kitchen,2024-01-15,2024-01-22,Defective,5999,9,Returning,Ahmedabad
+1489,C2844,History of India,Books,2024-01-13,2024-01-27,Wrong Product,999,4,New,Delhi
+1490,C8934,Vacuum Cleaner,Home & Kitchen,2024-01-12,2024-01-20,Wrong Product,3999,4,Returning,Hyderabad
+1491,C6280,Dumbbells,Sports,2024-01-02,2024-01-10,Late Delivery,2999,9,New,Pune
+1492,C2285,Wireless Mouse,Electronics,2024-01-06,2024-01-18,Wrong Size,599,7,New,Ahmedabad
+1493,C5360,Science Fiction,Books,2024-01-24,2024-02-05,Defective,699,8,Returning,Pune
+1494,C6990,Wireless Mouse,Electronics,2024-01-06,2024-01-21,Wrong Size,599,4,New,Chennai
+1495,C7579,Business Strategies,Books,2024-01-01,2024-01-10,Late Delivery,899,10,Returning,Chennai
+1496,C2115,Laptop Cooling Pad,Electronics,2024-01-10,2024-01-16,Defective,1299,3,New,Bangalore
+1497,C3001,Air Fryer,Home & Kitchen,2024-01-24,2024-02-05,Wrong Size,4999,8,Returning,Ahmedabad
+1498,C3106,Sunglasses,Fashion,2024-01-15,2024-01-28,Other,999,8,Returning,Delhi
+1499,C8684,Yoga Mat,Sports,2024-01-17,2024-02-01,Late Delivery,599,5,Returning,Pune
+1500,C2466,Vacuum Cleaner,Home & Kitchen,2024-01-25,2024-01-31,Wrong Product,3999,4,Returning,Pune
+1501,C1020,Sunglasses,Fashion,2024-01-25,2024-02-02,Other,999,6,New,Pune
+1502,C9460,Business Strategies,Books,2024-01-04,2024-01-10,Wrong Size,899,5,New,Kolkata
+1503,C6117,Football,Sports,2024-01-15,2024-01-29,Late Delivery,799,10,New,Ahmedabad
+1504,C1674,History of India,Books,2024-01-12,2024-01-19,Late Delivery,999,5,New,Pune
+1505,C1227,Bluetooth Headphones,Electronics,2024-01-31,2024-02-14,Defective,1999,9,New,Pune
+1506,C4535,Running Shoes,Fashion,2024-01-29,2024-02-08,Wrong Product,1499,7,New,Delhi
+1507,C4799,Bluetooth Headphones,Electronics,2024-01-01,2024-01-15,Wrong Product,1999,8,Returning,Pune
+1508,C4662,Football,Sports,2024-01-16,2024-01-27,Defective,799,9,New,Kolkata
+1509,C4748,Smartwatch,Electronics,2024-01-08,2024-01-22,Late Delivery,2999,8,New,Delhi
+1510,C1792,Badminton Racket,Sports,2024-01-29,2024-02-06,Wrong Size,1299,3,New,Kolkata
+1511,C4975,Water Purifier,Home & Kitchen,2024-01-04,2024-01-10,Wrong Product,5999,10,New,Delhi
+1512,C1653,History of India,Books,2024-01-11,2024-01-25,Other,999,9,Returning,Pune
+1513,C4686,Running Shoes,Fashion,2024-01-20,2024-01-30,Wrong Size,1499,9,Returning,Mumbai
+1514,C3211,History of India,Books,2024-01-01,2024-01-14,Wrong Product,999,3,New,Ahmedabad
+1515,C2358,Smartwatch,Electronics,2024-01-23,2024-02-04,Defective,2999,4,New,Ahmedabad
+1516,C1430,Yoga Mat,Sports,2024-01-07,2024-01-18,Late Delivery,599,3,New,Kolkata
+1517,C9679,Business Strategies,Books,2024-01-23,2024-02-05,Other,899,10,New,Delhi
+1518,C6158,Self-Help Guide,Books,2024-01-26,2024-02-04,Other,499,10,New,Bangalore
+1519,C4336,Science Fiction,Books,2024-01-19,2024-01-31,Other,699,3,New,Hyderabad
+1520,C2626,Yoga Mat,Sports,2024-01-15,2024-01-26,Late Delivery,599,4,Returning,Hyderabad
+1521,C8473,Vacuum Cleaner,Home & Kitchen,2024-01-03,2024-01-18,Defective,3999,6,Returning,Delhi
+1522,C9012,Water Purifier,Home & Kitchen,2024-01-30,2024-02-05,Defective,5999,4,New,Ahmedabad
+1523,C1120,Pressure Cooker,Home & Kitchen,2024-01-26,2024-02-04,Wrong Product,2499,7,Returning,Chennai
+1524,C1747,Running Shoes,Fashion,2024-01-19,2024-01-26,Other,1499,6,Returning,Ahmedabad
+1525,C4848,Air Fryer,Home & Kitchen,2024-01-10,2024-01-19,Other,4999,3,New,Pune
+1526,C9432,History of India,Books,2024-01-23,2024-02-07,Wrong Product,999,4,Returning,Pune
+1527,C9013,History of India,Books,2024-01-07,2024-01-15,Defective,999,7,New,Pune
+1528,C1003,Sunglasses,Fashion,2024-01-30,2024-02-08,Late Delivery,999,10,New,Kolkata
+1529,C4716,Bluetooth Headphones,Electronics,2024-01-21,2024-02-02,Defective,1999,7,Returning,Hyderabad
+1530,C9529,Science Fiction,Books,2024-01-23,2024-02-07,Defective,699,10,Returning,Chennai
+1531,C9002,Self-Help Guide,Books,2024-01-03,2024-01-12,Defective,499,3,Returning,Chennai
+1532,C9957,Science Fiction,Books,2024-01-22,2024-01-28,Other,699,7,Returning,Delhi
+1533,C9579,Science Fiction,Books,2024-01-09,2024-01-19,Other,699,10,New,Ahmedabad
+1534,C1803,Science Fiction,Books,2024-01-26,2024-02-09,Wrong Product,699,10,New,Bangalore
+1535,C8598,History of India,Books,2024-01-05,2024-01-10,Wrong Product,999,8,New,Pune
+1536,C1281,Laptop Cooling Pad,Electronics,2024-01-16,2024-01-30,Defective,1299,7,New,Chennai
+1537,C8546,Air Fryer,Home & Kitchen,2024-01-27,2024-02-10,Wrong Product,4999,9,Returning,Delhi
+1538,C4690,History of India,Books,2024-01-06,2024-01-18,Wrong Product,999,9,Returning,Ahmedabad
+1539,C7640,Science Fiction,Books,2024-01-25,2024-02-02,Late Delivery,699,9,Returning,Kolkata
+1540,C8274,Business Strategies,Books,2024-01-05,2024-01-16,Defective,899,4,New,Kolkata
+1541,C3183,Air Fryer,Home & Kitchen,2024-01-18,2024-01-28,Other,4999,4,New,Bangalore
+1542,C3504,Science Fiction,Books,2024-01-22,2024-01-28,Defective,699,8,Returning,Ahmedabad
+1543,C7179,Leather Wallet,Fashion,2024-01-25,2024-02-05,Wrong Product,899,5,Returning,Mumbai
+1544,C2307,Bluetooth Headphones,Electronics,2024-01-15,2024-01-25,Defective,1999,8,New,Delhi
+1545,C9874,Denim Jacket,Fashion,2024-01-24,2024-02-02,Late Delivery,1999,3,Returning,Hyderabad
+1546,C4669,Leather Wallet,Fashion,2024-01-04,2024-01-11,Wrong Size,899,9,New,Kolkata
+1547,C6644,History of India,Books,2024-01-11,2024-01-25,Other,999,8,Returning,Mumbai
+1548,C8092,Laptop Cooling Pad,Electronics,2024-01-22,2024-02-05,Late Delivery,1299,4,New,Bangalore
+1549,C8146,Denim Jacket,Fashion,2024-01-17,2024-02-01,Defective,1999,8,New,Kolkata
+1550,C3847,Running Shoes,Fashion,2024-01-01,2024-01-08,Wrong Size,1499,5,New,Bangalore
+1551,C5877,Science Fiction,Books,2024-01-15,2024-01-30,Late Delivery,699,8,New,Ahmedabad
+1552,C9498,Science Fiction,Books,2024-01-12,2024-01-21,Late Delivery,699,7,New,Kolkata
+1553,C5904,Dumbbells,Sports,2024-01-29,2024-02-12,Other,2999,8,Returning,Ahmedabad
+1554,C1546,Bluetooth Headphones,Electronics,2024-01-12,2024-01-26,Wrong Size,1999,3,New,Kolkata
+1555,C7010,Football,Sports,2024-01-26,2024-01-31,Late Delivery,799,3,New,Bangalore
+1556,C6438,History of India,Books,2024-01-06,2024-01-12,Defective,999,7,New,Chennai
+1557,C6582,Smartwatch,Electronics,2024-01-15,2024-01-22,Wrong Size,2999,6,Returning,Ahmedabad
+1558,C6183,History of India,Books,2024-01-16,2024-01-22,Wrong Product,999,4,New,Chennai
+1559,C6796,History of India,Books,2024-01-10,2024-01-21,Late Delivery,999,8,Returning,Pune
+1560,C8551,Air Fryer,Home & Kitchen,2024-01-29,2024-02-07,Defective,4999,10,Returning,Ahmedabad
+1561,C2158,Air Fryer,Home & Kitchen,2024-01-29,2024-02-12,Late Delivery,4999,3,New,Kolkata
+1562,C3023,Sunglasses,Fashion,2024-01-18,2024-01-23,Late Delivery,999,10,New,Ahmedabad
+1563,C7955,Football,Sports,2024-01-30,2024-02-13,Other,799,7,New,Ahmedabad
+1564,C1192,Self-Help Guide,Books,2024-01-28,2024-02-12,Other,499,9,New,Delhi
+1565,C3176,Vacuum Cleaner,Home & Kitchen,2024-01-07,2024-01-19,Late Delivery,3999,7,Returning,Chennai
+1566,C4295,Sunglasses,Fashion,2024-01-30,2024-02-04,Wrong Product,999,8,New,Kolkata
+1567,C5248,Self-Help Guide,Books,2024-01-26,2024-02-02,Wrong Size,499,5,Returning,Hyderabad
+1568,C3835,History of India,Books,2024-01-11,2024-01-23,Defective,999,7,Returning,Mumbai
+1569,C6181,Science Fiction,Books,2024-01-22,2024-02-03,Defective,699,8,New,Mumbai
+1570,C3331,History of India,Books,2024-01-03,2024-01-13,Other,999,5,Returning,Kolkata
+1571,C6461,Air Fryer,Home & Kitchen,2024-01-16,2024-01-27,Wrong Product,4999,9,Returning,Chennai
+1572,C7127,Vacuum Cleaner,Home & Kitchen,2024-01-05,2024-01-11,Late Delivery,3999,9,Returning,Ahmedabad
+1573,C3180,Sunglasses,Fashion,2024-01-14,2024-01-27,Wrong Size,999,10,Returning,Delhi
+1574,C4271,Leather Wallet,Fashion,2024-01-07,2024-01-13,Wrong Size,899,8,Returning,Pune
+1575,C1277,Self-Help Guide,Books,2024-01-28,2024-02-12,Other,499,10,Returning,Ahmedabad
+1576,C6959,Dumbbells,Sports,2024-01-24,2024-02-04,Wrong Product,2999,4,New,Bangalore
+1577,C8263,Science Fiction,Books,2024-01-08,2024-01-13,Wrong Size,699,10,Returning,Hyderabad
+1578,C9369,Business Strategies,Books,2024-01-22,2024-01-28,Wrong Product,899,6,New,Bangalore
+1579,C9232,Yoga Mat,Sports,2024-01-22,2024-01-31,Other,599,8,Returning,Kolkata
+1580,C5015,Pressure Cooker,Home & Kitchen,2024-01-14,2024-01-27,Wrong Product,2499,6,Returning,Hyderabad
+1581,C8010,Football,Sports,2024-01-02,2024-01-09,Wrong Product,799,3,Returning,Hyderabad
+1582,C4762,Football,Sports,2024-01-02,2024-01-09,Late Delivery,799,9,New,Hyderabad
+1583,C4775,Science Fiction,Books,2024-01-10,2024-01-22,Other,699,5,New,Hyderabad
+1584,C4812,Leather Wallet,Fashion,2024-01-05,2024-01-11,Defective,899,4,New,Mumbai
+1585,C3619,Business Strategies,Books,2024-01-12,2024-01-22,Other,899,8,Returning,Chennai
+1586,C6453,Self-Help Guide,Books,2024-01-24,2024-01-30,Late Delivery,499,9,New,Ahmedabad
+1587,C7997,Football,Sports,2024-01-27,2024-02-05,Wrong Size,799,3,Returning,Kolkata
+1588,C2832,Vacuum Cleaner,Home & Kitchen,2024-01-20,2024-01-29,Defective,3999,9,Returning,Kolkata
+1589,C9689,Yoga Mat,Sports,2024-01-24,2024-02-04,Wrong Size,599,9,New,Kolkata
+1590,C6095,Science Fiction,Books,2024-01-31,2024-02-06,Other,699,7,Returning,Chennai
+1591,C7681,Business Strategies,Books,2024-01-27,2024-02-07,Late Delivery,899,9,Returning,Ahmedabad
+1592,C8279,Badminton Racket,Sports,2024-01-31,2024-02-11,Wrong Size,1299,8,Returning,Bangalore
+1593,C8297,Self-Help Guide,Books,2024-01-19,2024-01-25,Wrong Size,499,4,New,Pune
+1594,C3023,Science Fiction,Books,2024-01-07,2024-01-13,Wrong Product,699,7,Returning,Chennai
+1595,C1337,Laptop Cooling Pad,Electronics,2024-01-18,2024-01-23,Wrong Size,1299,7,Returning,Bangalore
+1596,C4378,Vacuum Cleaner,Home & Kitchen,2024-01-29,2024-02-03,Late Delivery,3999,5,New,Hyderabad
+1597,C6091,Business Strategies,Books,2024-01-25,2024-02-01,Defective,899,6,Returning,Hyderabad
+1598,C7329,History of India,Books,2024-01-22,2024-01-31,Defective,999,8,Returning,Bangalore
+1599,C6092,Self-Help Guide,Books,2024-01-04,2024-01-11,Wrong Product,499,5,New,Chennai
+1600,C4035,Bluetooth Headphones,Electronics,2024-01-12,2024-01-17,Wrong Size,1999,6,Returning,Bangalore
+1601,C2896,Vacuum Cleaner,Home & Kitchen,2024-01-16,2024-01-22,Wrong Size,3999,3,New,Delhi
+1602,C2561,Pressure Cooker,Home & Kitchen,2024-01-02,2024-01-10,Defective,2499,6,New,Mumbai
+1603,C1973,History of India,Books,2024-01-03,2024-01-13,Defective,999,6,New,Chennai
+1604,C8670,Laptop Cooling Pad,Electronics,2024-01-22,2024-02-05,Wrong Size,1299,5,New,Bangalore
+1605,C8886,Football,Sports,2024-01-01,2024-01-11,Wrong Size,799,8,Returning,Ahmedabad
+1606,C1702,Smartwatch,Electronics,2024-01-08,2024-01-23,Wrong Product,2999,8,New,Mumbai
+1607,C6778,Running Shoes,Fashion,2024-01-14,2024-01-23,Wrong Product,1499,10,Returning,Pune
+1608,C3631,Football,Sports,2024-01-28,2024-02-04,Wrong Size,799,6,Returning,Hyderabad
+1609,C1017,Badminton Racket,Sports,2024-01-24,2024-02-07,Defective,1299,4,New,Chennai
+1610,C7661,Water Purifier,Home & Kitchen,2024-01-29,2024-02-05,Other,5999,6,New,Kolkata
+1611,C7999,Business Strategies,Books,2024-01-14,2024-01-28,Wrong Product,899,9,Returning,Pune
+1612,C1768,Sunglasses,Fashion,2024-01-31,2024-02-11,Defective,999,8,Returning,Ahmedabad
+1613,C5389,Smartwatch,Electronics,2024-01-19,2024-01-26,Other,2999,4,Returning,Pune
+1614,C5129,Self-Help Guide,Books,2024-01-02,2024-01-08,Other,499,5,Returning,Pune
+1615,C3005,Business Strategies,Books,2024-01-07,2024-01-18,Defective,899,7,New,Ahmedabad
+1616,C7841,Dumbbells,Sports,2024-01-29,2024-02-13,Wrong Product,2999,7,Returning,Mumbai
+1617,C9945,Badminton Racket,Sports,2024-01-16,2024-01-29,Wrong Size,1299,9,New,Delhi
+1618,C8339,Pressure Cooker,Home & Kitchen,2024-01-31,2024-02-09,Wrong Product,2499,10,Returning,Delhi
+1619,C5084,Dumbbells,Sports,2024-01-02,2024-01-14,Wrong Size,2999,9,Returning,Mumbai
+1620,C5403,Air Fryer,Home & Kitchen,2024-01-10,2024-01-21,Wrong Product,4999,4,New,Mumbai
+1621,C2966,Dumbbells,Sports,2024-01-22,2024-01-27,Wrong Product,2999,9,New,Ahmedabad
+1622,C2576,Laptop Cooling Pad,Electronics,2024-01-18,2024-01-27,Wrong Size,1299,6,Returning,Chennai
+1623,C7825,Air Fryer,Home & Kitchen,2024-01-05,2024-01-18,Wrong Product,4999,6,Returning,Chennai
+1624,C4910,Dumbbells,Sports,2024-01-13,2024-01-26,Defective,2999,3,New,Chennai
+1625,C4507,Yoga Mat,Sports,2024-01-30,2024-02-04,Other,599,7,Returning,Delhi
+1626,C4414,Badminton Racket,Sports,2024-01-31,2024-02-11,Wrong Product,1299,7,New,Ahmedabad
+1627,C9075,Running Shoes,Fashion,2024-01-03,2024-01-11,Wrong Size,1499,6,Returning,Delhi
+1628,C7042,Science Fiction,Books,2024-01-02,2024-01-13,Wrong Size,699,5,Returning,Bangalore
+1629,C8442,Running Shoes,Fashion,2024-01-30,2024-02-11,Wrong Size,1499,5,New,Ahmedabad
+1630,C2786,History of India,Books,2024-01-01,2024-01-07,Wrong Size,999,5,Returning,Bangalore
+1631,C5583,Wireless Mouse,Electronics,2024-01-31,2024-02-12,Defective,599,7,Returning,Chennai
+1632,C2385,Denim Jacket,Fashion,2024-01-25,2024-02-04,Late Delivery,1999,8,New,Hyderabad
+1633,C6639,Running Shoes,Fashion,2024-01-16,2024-01-26,Defective,1499,10,New,Bangalore
+1634,C8543,Wireless Mouse,Electronics,2024-01-19,2024-01-31,Defective,599,3,Returning,Delhi
+1635,C5540,Denim Jacket,Fashion,2024-01-26,2024-02-09,Late Delivery,1999,6,Returning,Delhi
+1636,C9938,History of India,Books,2024-01-11,2024-01-24,Other,999,10,Returning,Kolkata
+1637,C1928,Wireless Mouse,Electronics,2024-01-13,2024-01-22,Wrong Product,599,6,Returning,Pune
+1638,C7196,Football,Sports,2024-01-12,2024-01-22,Defective,799,8,Returning,Mumbai
+1639,C6832,Water Purifier,Home & Kitchen,2024-01-30,2024-02-07,Wrong Product,5999,10,Returning,Pune
+1640,C7855,Badminton Racket,Sports,2024-01-16,2024-01-22,Defective,1299,3,New,Mumbai
+1641,C5092,Vacuum Cleaner,Home & Kitchen,2024-01-17,2024-01-24,Wrong Size,3999,3,Returning,Kolkata
+1642,C3720,Bluetooth Headphones,Electronics,2024-01-31,2024-02-11,Wrong Size,1999,7,Returning,Delhi
+1643,C3522,Leather Wallet,Fashion,2024-01-08,2024-01-17,Wrong Size,899,4,New,Kolkata
+1644,C7216,Business Strategies,Books,2024-01-26,2024-01-31,Defective,899,10,New,Kolkata
+1645,C2230,Pressure Cooker,Home & Kitchen,2024-01-25,2024-02-09,Wrong Size,2499,4,New,Delhi
+1646,C2733,Running Shoes,Fashion,2024-01-17,2024-02-01,Wrong Size,1499,4,New,Bangalore
+1647,C4347,Vacuum Cleaner,Home & Kitchen,2024-01-29,2024-02-07,Late Delivery,3999,10,New,Kolkata
+1648,C8171,Pressure Cooker,Home & Kitchen,2024-01-07,2024-01-19,Late Delivery,2499,6,Returning,Kolkata
+1649,C6407,Science Fiction,Books,2024-01-13,2024-01-23,Wrong Product,699,8,Returning,Mumbai
+1650,C4321,Business Strategies,Books,2024-01-12,2024-01-24,Wrong Size,899,3,Returning,Delhi
+1651,C7806,History of India,Books,2024-01-11,2024-01-17,Wrong Size,999,5,Returning,Mumbai
+1652,C8648,Leather Wallet,Fashion,2024-01-10,2024-01-23,Defective,899,8,New,Ahmedabad
+1653,C3138,Leather Wallet,Fashion,2024-01-04,2024-01-10,Wrong Size,899,8,New,Ahmedabad
+1654,C8268,Business Strategies,Books,2024-01-29,2024-02-04,Wrong Product,899,8,Returning,Pune
+1655,C6180,History of India,Books,2024-01-15,2024-01-23,Other,999,6,Returning,Hyderabad
+1656,C3488,Vacuum Cleaner,Home & Kitchen,2024-01-31,2024-02-15,Other,3999,3,New,Pune
+1657,C2404,Denim Jacket,Fashion,2024-01-24,2024-02-06,Wrong Size,1999,8,Returning,Mumbai
+1658,C3479,Business Strategies,Books,2024-01-21,2024-01-31,Late Delivery,899,6,Returning,Ahmedabad
+1659,C4438,Science Fiction,Books,2024-01-20,2024-01-26,Late Delivery,699,7,New,Ahmedabad
+1660,C4191,Science Fiction,Books,2024-01-10,2024-01-19,Late Delivery,699,7,New,Mumbai
+1661,C3768,Smartwatch,Electronics,2024-01-14,2024-01-27,Late Delivery,2999,10,Returning,Kolkata
+1662,C2530,Self-Help Guide,Books,2024-01-04,2024-01-15,Other,499,6,New,Kolkata
+1663,C4301,Wireless Mouse,Electronics,2024-01-04,2024-01-12,Other,599,7,Returning,Ahmedabad
+1664,C1536,Sunglasses,Fashion,2024-01-25,2024-02-07,Late Delivery,999,10,New,Mumbai
+1665,C9578,Laptop Cooling Pad,Electronics,2024-01-16,2024-01-23,Wrong Size,1299,4,Returning,Kolkata
+1666,C8549,Laptop Cooling Pad,Electronics,2024-01-06,2024-01-15,Wrong Product,1299,6,Returning,Bangalore
+1667,C8198,Running Shoes,Fashion,2024-01-28,2024-02-05,Wrong Size,1499,3,New,Hyderabad
+1668,C8090,Vacuum Cleaner,Home & Kitchen,2024-01-08,2024-01-23,Other,3999,5,New,Hyderabad
+1669,C8266,Dumbbells,Sports,2024-01-20,2024-01-30,Other,2999,3,New,Kolkata
+1670,C5025,Science Fiction,Books,2024-01-20,2024-01-28,Wrong Product,699,5,New,Ahmedabad
+1671,C4035,History of India,Books,2024-01-24,2024-02-02,Defective,999,3,New,Chennai
+1672,C2948,Pressure Cooker,Home & Kitchen,2024-01-14,2024-01-27,Wrong Size,2499,8,New,Kolkata
+1673,C2068,Water Purifier,Home & Kitchen,2024-01-11,2024-01-18,Defective,5999,6,New,Ahmedabad
+1674,C1092,Football,Sports,2024-01-14,2024-01-24,Wrong Size,799,4,Returning,Delhi
+1675,C7498,Sunglasses,Fashion,2024-01-22,2024-02-05,Other,999,7,New,Delhi
+1676,C1842,Wireless Mouse,Electronics,2024-01-04,2024-01-19,Late Delivery,599,9,Returning,Chennai
+1677,C5209,Science Fiction,Books,2024-01-11,2024-01-17,Other,699,6,New,Chennai
+1678,C6438,Badminton Racket,Sports,2024-01-21,2024-01-26,Wrong Size,1299,7,New,Delhi
+1679,C9026,Yoga Mat,Sports,2024-01-17,2024-01-27,Wrong Product,599,5,Returning,Bangalore
+1680,C2067,Dumbbells,Sports,2024-01-31,2024-02-05,Other,2999,4,New,Kolkata
+1681,C7009,Leather Wallet,Fashion,2024-01-17,2024-01-30,Wrong Size,899,9,New,Bangalore
+1682,C8999,Dumbbells,Sports,2024-01-15,2024-01-24,Other,2999,3,Returning,Pune
+1683,C1837,Pressure Cooker,Home & Kitchen,2024-01-28,2024-02-05,Wrong Size,2499,4,Returning,Kolkata
+1684,C7391,Wireless Mouse,Electronics,2024-01-09,2024-01-24,Wrong Size,599,7,New,Chennai
+1685,C2151,Vacuum Cleaner,Home & Kitchen,2024-01-20,2024-01-31,Wrong Product,3999,10,New,Bangalore
+1686,C7049,Running Shoes,Fashion,2024-01-01,2024-01-13,Wrong Product,1499,6,New,Kolkata
+1687,C9475,Running Shoes,Fashion,2024-01-14,2024-01-19,Wrong Product,1499,6,New,Ahmedabad
+1688,C7527,Badminton Racket,Sports,2024-01-26,2024-02-05,Late Delivery,1299,7,New,Mumbai
+1689,C3821,Wireless Mouse,Electronics,2024-01-02,2024-01-10,Wrong Size,599,5,Returning,Pune
+1690,C2974,Pressure Cooker,Home & Kitchen,2024-01-23,2024-02-05,Other,2499,6,Returning,Delhi
+1691,C7451,Dumbbells,Sports,2024-01-02,2024-01-16,Late Delivery,2999,8,New,Mumbai
+1692,C9079,Air Fryer,Home & Kitchen,2024-01-02,2024-01-11,Wrong Size,4999,7,New,Chennai
+1693,C8170,Water Purifier,Home & Kitchen,2024-01-28,2024-02-11,Late Delivery,5999,8,New,Bangalore
+1694,C3652,Laptop Cooling Pad,Electronics,2024-01-16,2024-01-22,Late Delivery,1299,9,Returning,Delhi
+1695,C2677,Running Shoes,Fashion,2024-01-05,2024-01-18,Defective,1499,8,New,Pune
+1696,C7350,Air Fryer,Home & Kitchen,2024-01-01,2024-01-15,Wrong Size,4999,6,New,Chennai
+1697,C5924,Running Shoes,Fashion,2024-01-29,2024-02-13,Late Delivery,1499,7,Returning,Hyderabad
+1698,C6740,Running Shoes,Fashion,2024-01-19,2024-02-03,Defective,1499,3,Returning,Chennai
+1699,C5052,Air Fryer,Home & Kitchen,2024-01-22,2024-02-03,Late Delivery,4999,8,New,Pune
+1700,C2670,Sunglasses,Fashion,2024-01-18,2024-01-27,Wrong Size,999,3,New,Pune
+1701,C9701,Badminton Racket,Sports,2024-01-30,2024-02-06,Other,1299,9,Returning,Ahmedabad
+1702,C7814,Vacuum Cleaner,Home & Kitchen,2024-01-28,2024-02-12,Wrong Product,3999,9,New,Mumbai
+1703,C1484,Badminton Racket,Sports,2024-01-14,2024-01-19,Other,1299,3,Returning,Kolkata
+1704,C4379,Dumbbells,Sports,2024-01-19,2024-02-02,Wrong Product,2999,4,New,Pune
+1705,C5494,History of India,Books,2024-01-14,2024-01-25,Defective,999,6,Returning,Ahmedabad
+1706,C7042,Air Fryer,Home & Kitchen,2024-01-26,2024-02-03,Defective,4999,6,Returning,Ahmedabad
+1707,C8864,Yoga Mat,Sports,2024-01-28,2024-02-10,Defective,599,8,New,Chennai
+1708,C7272,Dumbbells,Sports,2024-01-03,2024-01-15,Other,2999,6,Returning,Mumbai
+1709,C5876,History of India,Books,2024-01-24,2024-01-31,Defective,999,8,New,Pune
+1710,C6704,Badminton Racket,Sports,2024-01-28,2024-02-10,Other,1299,6,New,Ahmedabad
+1711,C7245,Self-Help Guide,Books,2024-01-10,2024-01-25,Late Delivery,499,9,Returning,Mumbai
+1712,C5528,Smartwatch,Electronics,2024-01-30,2024-02-13,Late Delivery,2999,6,Returning,Bangalore
+1713,C6616,Laptop Cooling Pad,Electronics,2024-01-22,2024-02-02,Defective,1299,6,New,Chennai
+1714,C9385,Dumbbells,Sports,2024-01-28,2024-02-12,Wrong Size,2999,4,Returning,Pune
+1715,C9654,Running Shoes,Fashion,2024-01-31,2024-02-08,Defective,1499,3,New,Pune
+1716,C6404,Football,Sports,2024-01-10,2024-01-18,Other,799,10,New,Pune
+1717,C7938,Sunglasses,Fashion,2024-01-22,2024-01-31,Wrong Size,999,6,Returning,Delhi
+1718,C2512,Bluetooth Headphones,Electronics,2024-01-03,2024-01-12,Wrong Size,1999,8,Returning,Bangalore
+1719,C5666,Science Fiction,Books,2024-01-29,2024-02-11,Defective,699,5,New,Chennai
+1720,C8469,Badminton Racket,Sports,2024-01-04,2024-01-16,Late Delivery,1299,9,New,Chennai
+1721,C7970,Sunglasses,Fashion,2024-01-13,2024-01-20,Wrong Size,999,6,New,Ahmedabad
+1722,C7603,Air Fryer,Home & Kitchen,2024-01-03,2024-01-10,Defective,4999,7,Returning,Ahmedabad
+1723,C4365,History of India,Books,2024-01-04,2024-01-10,Wrong Product,999,5,Returning,Kolkata
+1724,C8382,Running Shoes,Fashion,2024-01-15,2024-01-21,Wrong Size,1499,6,New,Bangalore
+1725,C7190,Badminton Racket,Sports,2024-01-22,2024-01-27,Late Delivery,1299,9,Returning,Kolkata
+1726,C7661,Football,Sports,2024-01-16,2024-01-26,Late Delivery,799,6,Returning,Pune
+1727,C4278,Smartwatch,Electronics,2024-01-14,2024-01-24,Late Delivery,2999,6,New,Kolkata
+1728,C9630,Yoga Mat,Sports,2024-01-17,2024-01-28,Defective,599,7,New,Bangalore
+1729,C7843,Yoga Mat,Sports,2024-01-22,2024-01-28,Wrong Size,599,10,Returning,Ahmedabad
+1730,C5328,Leather Wallet,Fashion,2024-01-07,2024-01-14,Defective,899,4,Returning,Chennai
+1731,C6766,Pressure Cooker,Home & Kitchen,2024-01-20,2024-02-04,Other,2499,6,Returning,Pune
+1732,C7488,Denim Jacket,Fashion,2024-01-16,2024-01-27,Wrong Product,1999,5,New,Mumbai
+1733,C9759,Air Fryer,Home & Kitchen,2024-01-16,2024-01-25,Other,4999,7,New,Bangalore
+1734,C8366,Dumbbells,Sports,2024-01-09,2024-01-24,Other,2999,8,New,Delhi
+1735,C4574,Denim Jacket,Fashion,2024-01-20,2024-01-27,Wrong Size,1999,6,New,Delhi
+1736,C4187,Vacuum Cleaner,Home & Kitchen,2024-01-20,2024-01-30,Wrong Size,3999,10,New,Hyderabad
+1737,C3100,Dumbbells,Sports,2024-01-24,2024-01-31,Defective,2999,4,Returning,Mumbai
+1738,C9627,Badminton Racket,Sports,2024-01-08,2024-01-15,Late Delivery,1299,5,New,Hyderabad
+1739,C8604,Vacuum Cleaner,Home & Kitchen,2024-01-11,2024-01-17,Wrong Size,3999,6,New,Bangalore
+1740,C9012,Water Purifier,Home & Kitchen,2024-01-08,2024-01-17,Other,5999,8,New,Pune
+1741,C8850,Yoga Mat,Sports,2024-01-03,2024-01-08,Wrong Size,599,7,New,Delhi
+1742,C7850,Vacuum Cleaner,Home & Kitchen,2024-01-20,2024-01-31,Late Delivery,3999,4,New,Bangalore
+1743,C7388,Dumbbells,Sports,2024-01-31,2024-02-10,Wrong Size,2999,3,New,Mumbai
+1744,C6629,Wireless Mouse,Electronics,2024-01-16,2024-01-23,Other,599,4,Returning,Chennai
+1745,C6495,Wireless Mouse,Electronics,2024-01-21,2024-02-01,Defective,599,5,Returning,Hyderabad
+1746,C9857,History of India,Books,2024-01-13,2024-01-21,Wrong Product,999,7,New,Delhi
+1747,C7577,Leather Wallet,Fashion,2024-01-06,2024-01-21,Defective,899,8,Returning,Hyderabad
+1748,C5752,Smartwatch,Electronics,2024-01-31,2024-02-07,Defective,2999,4,Returning,Ahmedabad
+1749,C9106,Smartwatch,Electronics,2024-01-22,2024-02-05,Late Delivery,2999,3,Returning,Ahmedabad
+1750,C1882,Football,Sports,2024-01-28,2024-02-07,Defective,799,5,Returning,Bangalore
+1751,C9830,Pressure Cooker,Home & Kitchen,2024-01-01,2024-01-16,Other,2499,10,New,Bangalore
+1752,C1089,Vacuum Cleaner,Home & Kitchen,2024-01-19,2024-02-03,Late Delivery,3999,9,Returning,Bangalore
+1753,C2222,Leather Wallet,Fashion,2024-01-22,2024-02-02,Wrong Product,899,8,New,Delhi
+1754,C9509,Dumbbells,Sports,2024-01-23,2024-02-04,Wrong Product,2999,3,New,Ahmedabad
+1755,C9344,Business Strategies,Books,2024-01-10,2024-01-19,Defective,899,10,Returning,Chennai
+1756,C1032,Denim Jacket,Fashion,2024-01-03,2024-01-17,Other,1999,5,New,Mumbai
+1757,C2287,Dumbbells,Sports,2024-01-30,2024-02-13,Defective,2999,5,New,Chennai
+1758,C6150,Leather Wallet,Fashion,2024-01-26,2024-02-05,Defective,899,7,Returning,Chennai
+1759,C3319,Yoga Mat,Sports,2024-01-18,2024-01-30,Other,599,8,New,Kolkata
+1760,C9559,Wireless Mouse,Electronics,2024-01-16,2024-01-31,Other,599,8,New,Chennai
+1761,C6031,Denim Jacket,Fashion,2024-01-10,2024-01-19,Wrong Product,1999,3,New,Delhi
+1762,C5883,Yoga Mat,Sports,2024-01-01,2024-01-13,Wrong Size,599,7,Returning,Hyderabad
+1763,C6293,Denim Jacket,Fashion,2024-01-14,2024-01-26,Wrong Product,1999,10,Returning,Hyderabad
+1764,C1539,Bluetooth Headphones,Electronics,2024-01-22,2024-02-06,Wrong Size,1999,10,New,Delhi
+1765,C3668,Football,Sports,2024-01-10,2024-01-19,Wrong Size,799,3,New,Ahmedabad
+1766,C8349,Self-Help Guide,Books,2024-01-19,2024-01-29,Wrong Product,499,8,Returning,Hyderabad
+1767,C1305,Air Fryer,Home & Kitchen,2024-01-29,2024-02-06,Wrong Size,4999,4,New,Bangalore
+1768,C6030,Football,Sports,2024-01-03,2024-01-17,Defective,799,3,New,Hyderabad
+1769,C6858,Football,Sports,2024-01-04,2024-01-19,Defective,799,9,Returning,Pune
+1770,C4034,History of India,Books,2024-01-15,2024-01-22,Wrong Size,999,10,New,Ahmedabad
+1771,C2375,Dumbbells,Sports,2024-01-10,2024-01-23,Late Delivery,2999,5,New,Kolkata
+1772,C5113,Laptop Cooling Pad,Electronics,2024-01-24,2024-02-03,Late Delivery,1299,10,Returning,Hyderabad
+1773,C7890,Dumbbells,Sports,2024-01-23,2024-02-06,Late Delivery,2999,5,New,Pune
+1774,C1207,Dumbbells,Sports,2024-01-20,2024-02-03,Late Delivery,2999,7,Returning,Ahmedabad
+1775,C8619,Vacuum Cleaner,Home & Kitchen,2024-01-25,2024-01-30,Late Delivery,3999,6,New,Chennai
+1776,C4292,Badminton Racket,Sports,2024-01-04,2024-01-11,Defective,1299,9,New,Bangalore
+1777,C8076,Wireless Mouse,Electronics,2024-01-03,2024-01-09,Other,599,6,New,Pune
+1778,C1067,Self-Help Guide,Books,2024-01-09,2024-01-14,Defective,499,3,Returning,Pune
+1779,C6727,Football,Sports,2024-01-07,2024-01-20,Wrong Size,799,3,Returning,Delhi
+1780,C3410,Vacuum Cleaner,Home & Kitchen,2024-01-29,2024-02-10,Other,3999,9,Returning,Hyderabad
+1781,C4455,Water Purifier,Home & Kitchen,2024-01-30,2024-02-07,Other,5999,9,Returning,Bangalore
+1782,C4806,Dumbbells,Sports,2024-01-29,2024-02-03,Wrong Product,2999,10,New,Chennai
+1783,C5238,Pressure Cooker,Home & Kitchen,2024-01-26,2024-02-02,Late Delivery,2499,8,Returning,Ahmedabad
+1784,C6323,Sunglasses,Fashion,2024-01-19,2024-01-28,Other,999,10,New,Delhi
+1785,C7720,Wireless Mouse,Electronics,2024-01-05,2024-01-20,Late Delivery,599,7,Returning,Chennai
+1786,C7182,Yoga Mat,Sports,2024-01-27,2024-02-04,Late Delivery,599,4,New,Delhi
+1787,C5263,Water Purifier,Home & Kitchen,2024-01-22,2024-02-04,Wrong Size,5999,7,Returning,Hyderabad
+1788,C7772,Vacuum Cleaner,Home & Kitchen,2024-01-20,2024-02-03,Other,3999,7,Returning,Chennai
+1789,C4063,Dumbbells,Sports,2024-01-06,2024-01-13,Wrong Size,2999,5,Returning,Chennai
+1790,C8791,Denim Jacket,Fashion,2024-01-31,2024-02-05,Other,1999,6,Returning,Chennai
+1791,C8463,Vacuum Cleaner,Home & Kitchen,2024-01-05,2024-01-20,Wrong Size,3999,4,New,Ahmedabad
+1792,C7940,History of India,Books,2024-01-08,2024-01-16,Wrong Size,999,9,New,Pune
+1793,C1658,Vacuum Cleaner,Home & Kitchen,2024-01-12,2024-01-19,Late Delivery,3999,9,New,Bangalore
+1794,C3489,Football,Sports,2024-01-06,2024-01-18,Defective,799,8,New,Delhi
+1795,C7840,Pressure Cooker,Home & Kitchen,2024-01-02,2024-01-11,Late Delivery,2499,4,Returning,Mumbai
+1796,C2962,History of India,Books,2024-01-23,2024-01-29,Defective,999,8,Returning,Delhi
+1797,C1397,Pressure Cooker,Home & Kitchen,2024-01-06,2024-01-20,Wrong Size,2499,7,Returning,Mumbai
+1798,C7784,History of India,Books,2024-01-31,2024-02-14,Late Delivery,999,10,New,Bangalore
+1799,C7547,Dumbbells,Sports,2024-01-15,2024-01-22,Late Delivery,2999,5,Returning,Bangalore
+1800,C8771,Football,Sports,2024-01-12,2024-01-19,Late Delivery,799,4,Returning,Mumbai
+1801,C7199,Denim Jacket,Fashion,2024-01-11,2024-01-17,Late Delivery,1999,9,Returning,Pune
+1802,C1125,Sunglasses,Fashion,2024-01-13,2024-01-23,Defective,999,3,Returning,Hyderabad
+1803,C3628,Laptop Cooling Pad,Electronics,2024-01-19,2024-01-24,Late Delivery,1299,6,New,Hyderabad
+1804,C3219,Bluetooth Headphones,Electronics,2024-01-10,2024-01-19,Defective,1999,6,New,Pune
+1805,C9184,Denim Jacket,Fashion,2024-01-26,2024-02-07,Wrong Size,1999,9,Returning,Hyderabad
+1806,C6723,Football,Sports,2024-01-03,2024-01-09,Other,799,9,New,Pune
+1807,C6500,Laptop Cooling Pad,Electronics,2024-01-30,2024-02-10,Defective,1299,5,Returning,Ahmedabad
+1808,C2474,Sunglasses,Fashion,2024-01-20,2024-01-26,Defective,999,9,New,Delhi
+1809,C1428,Vacuum Cleaner,Home & Kitchen,2024-01-19,2024-01-26,Wrong Size,3999,7,Returning,Delhi
+1810,C7474,Badminton Racket,Sports,2024-01-29,2024-02-09,Wrong Product,1299,10,Returning,Delhi
+1811,C9606,Water Purifier,Home & Kitchen,2024-01-31,2024-02-14,Other,5999,6,New,Ahmedabad
+1812,C4008,Science Fiction,Books,2024-01-17,2024-01-29,Defective,699,9,Returning,Delhi
+1813,C9797,Vacuum Cleaner,Home & Kitchen,2024-01-10,2024-01-23,Wrong Product,3999,10,Returning,Kolkata
+1814,C2873,Sunglasses,Fashion,2024-01-25,2024-01-30,Wrong Product,999,8,New,Chennai
+1815,C9744,History of India,Books,2024-01-14,2024-01-23,Wrong Size,999,3,New,Hyderabad
+1816,C6931,Business Strategies,Books,2024-01-05,2024-01-15,Wrong Size,899,7,New,Delhi
+1817,C8368,Bluetooth Headphones,Electronics,2024-01-04,2024-01-09,Defective,1999,10,Returning,Delhi
+1818,C4429,Air Fryer,Home & Kitchen,2024-01-20,2024-02-04,Late Delivery,4999,3,New,Pune
+1819,C4233,Leather Wallet,Fashion,2024-01-26,2024-02-10,Other,899,4,Returning,Chennai
+1820,C2986,Denim Jacket,Fashion,2024-01-11,2024-01-26,Wrong Size,1999,6,Returning,Mumbai
+1821,C1664,Leather Wallet,Fashion,2024-01-21,2024-02-05,Wrong Size,899,5,Returning,Mumbai
+1822,C7975,Wireless Mouse,Electronics,2024-01-31,2024-02-14,Late Delivery,599,9,New,Hyderabad
+1823,C9897,Science Fiction,Books,2024-01-02,2024-01-14,Late Delivery,699,7,Returning,Ahmedabad
+1824,C2932,Laptop Cooling Pad,Electronics,2024-01-05,2024-01-17,Wrong Size,1299,7,New,Ahmedabad
+1825,C4364,Self-Help Guide,Books,2024-01-04,2024-01-17,Defective,499,3,Returning,Pune
+1826,C8482,Vacuum Cleaner,Home & Kitchen,2024-01-08,2024-01-15,Other,3999,9,Returning,Ahmedabad
+1827,C4414,Water Purifier,Home & Kitchen,2024-01-29,2024-02-10,Wrong Size,5999,4,New,Kolkata
+1828,C7651,Pressure Cooker,Home & Kitchen,2024-01-28,2024-02-05,Other,2499,8,New,Chennai
+1829,C5294,Dumbbells,Sports,2024-01-13,2024-01-19,Defective,2999,6,New,Bangalore
+1830,C2980,Leather Wallet,Fashion,2024-01-05,2024-01-11,Late Delivery,899,8,Returning,Mumbai
+1831,C9837,Bluetooth Headphones,Electronics,2024-01-05,2024-01-11,Late Delivery,1999,9,Returning,Delhi
+1832,C6231,Dumbbells,Sports,2024-01-26,2024-02-06,Wrong Size,2999,6,Returning,Bangalore
+1833,C6856,Football,Sports,2024-01-07,2024-01-22,Other,799,4,New,Pune
+1834,C6473,Air Fryer,Home & Kitchen,2024-01-24,2024-01-29,Other,4999,6,Returning,Ahmedabad
+1835,C9537,History of India,Books,2024-01-04,2024-01-14,Wrong Product,999,8,Returning,Bangalore
+1836,C5620,Smartwatch,Electronics,2024-01-27,2024-02-04,Defective,2999,3,New,Pune
+1837,C8477,Wireless Mouse,Electronics,2024-01-23,2024-01-29,Wrong Size,599,5,New,Delhi
+1838,C4252,Dumbbells,Sports,2024-01-23,2024-01-30,Wrong Size,2999,6,New,Chennai
+1839,C2716,Denim Jacket,Fashion,2024-01-23,2024-02-05,Wrong Size,1999,9,Returning,Bangalore
+1840,C4107,Running Shoes,Fashion,2024-01-06,2024-01-16,Other,1499,10,Returning,Delhi
+1841,C2486,Vacuum Cleaner,Home & Kitchen,2024-01-26,2024-02-02,Late Delivery,3999,6,Returning,Kolkata
+1842,C5256,Air Fryer,Home & Kitchen,2024-01-03,2024-01-15,Wrong Product,4999,3,New,Hyderabad
+1843,C1120,Air Fryer,Home & Kitchen,2024-01-20,2024-02-02,Late Delivery,4999,7,Returning,Hyderabad
+1844,C1916,Football,Sports,2024-01-24,2024-02-04,Defective,799,4,New,Chennai
+1845,C9132,Dumbbells,Sports,2024-01-30,2024-02-13,Late Delivery,2999,3,Returning,Delhi
+1846,C3184,Leather Wallet,Fashion,2024-01-15,2024-01-21,Wrong Size,899,7,New,Hyderabad
+1847,C4509,Bluetooth Headphones,Electronics,2024-01-11,2024-01-20,Other,1999,4,New,Bangalore
+1848,C8386,Bluetooth Headphones,Electronics,2024-01-10,2024-01-15,Wrong Product,1999,10,Returning,Mumbai
+1849,C1063,Sunglasses,Fashion,2024-01-28,2024-02-05,Late Delivery,999,7,New,Chennai
+1850,C3774,Leather Wallet,Fashion,2024-01-10,2024-01-17,Wrong Product,899,4,New,Chennai
+1851,C1537,Running Shoes,Fashion,2024-01-20,2024-01-28,Wrong Size,1499,9,New,Hyderabad
+1852,C9139,History of India,Books,2024-01-24,2024-01-30,Defective,999,4,New,Pune
+1853,C9764,Self-Help Guide,Books,2024-01-11,2024-01-22,Wrong Size,499,5,New,Bangalore
+1854,C6926,Air Fryer,Home & Kitchen,2024-01-28,2024-02-07,Wrong Product,4999,3,Returning,Ahmedabad
+1855,C6719,Self-Help Guide,Books,2024-01-14,2024-01-25,Other,499,10,Returning,Mumbai
+1856,C2118,Badminton Racket,Sports,2024-01-14,2024-01-19,Late Delivery,1299,6,Returning,Kolkata
+1857,C5099,Smartwatch,Electronics,2024-01-10,2024-01-24,Wrong Size,2999,5,New,Chennai
+1858,C5947,Badminton Racket,Sports,2024-01-23,2024-02-04,Other,1299,4,New,Pune
+1859,C5065,Laptop Cooling Pad,Electronics,2024-01-01,2024-01-11,Wrong Size,1299,7,New,Kolkata
+1860,C6448,Football,Sports,2024-01-21,2024-01-26,Wrong Product,799,6,Returning,Delhi
+1861,C5512,Leather Wallet,Fashion,2024-01-17,2024-01-29,Wrong Size,899,10,New,Kolkata
+1862,C3216,Laptop Cooling Pad,Electronics,2024-01-06,2024-01-20,Wrong Size,1299,9,New,Kolkata
+1863,C2987,Laptop Cooling Pad,Electronics,2024-01-22,2024-01-29,Wrong Product,1299,8,New,Pune
+1864,C6890,Vacuum Cleaner,Home & Kitchen,2024-01-23,2024-01-31,Other,3999,5,Returning,Hyderabad
+1865,C3565,Wireless Mouse,Electronics,2024-01-24,2024-02-05,Wrong Size,599,5,Returning,Chennai
+1866,C9334,Vacuum Cleaner,Home & Kitchen,2024-01-13,2024-01-25,Wrong Product,3999,5,New,Hyderabad
+1867,C5089,Running Shoes,Fashion,2024-01-03,2024-01-09,Defective,1499,8,New,Pune
+1868,C1717,Smartwatch,Electronics,2024-01-08,2024-01-14,Defective,2999,9,New,Delhi
+1869,C1921,Bluetooth Headphones,Electronics,2024-01-02,2024-01-08,Late Delivery,1999,5,New,Bangalore
+1870,C7944,Self-Help Guide,Books,2024-01-09,2024-01-14,Defective,499,10,New,Bangalore
+1871,C5872,Leather Wallet,Fashion,2024-01-30,2024-02-07,Wrong Size,899,7,New,Mumbai
+1872,C3274,Leather Wallet,Fashion,2024-01-29,2024-02-09,Wrong Product,899,3,New,Hyderabad
+1873,C2715,Air Fryer,Home & Kitchen,2024-01-03,2024-01-16,Wrong Product,4999,8,Returning,Hyderabad
+1874,C9188,Pressure Cooker,Home & Kitchen,2024-01-21,2024-01-27,Wrong Product,2499,9,Returning,Hyderabad
+1875,C6370,Dumbbells,Sports,2024-01-14,2024-01-23,Wrong Product,2999,10,Returning,Delhi
+1876,C7958,Denim Jacket,Fashion,2024-01-10,2024-01-22,Other,1999,5,Returning,Pune
+1877,C1921,Water Purifier,Home & Kitchen,2024-01-12,2024-01-21,Late Delivery,5999,5,New,Mumbai
+1878,C1128,Leather Wallet,Fashion,2024-01-06,2024-01-20,Other,899,5,Returning,Mumbai
+1879,C3400,Denim Jacket,Fashion,2024-01-09,2024-01-16,Wrong Product,1999,8,Returning,Delhi
+1880,C6911,Self-Help Guide,Books,2024-01-26,2024-02-07,Other,499,5,Returning,Hyderabad
+1881,C1017,Badminton Racket,Sports,2024-01-03,2024-01-15,Other,1299,4,New,Delhi
+1882,C8853,Water Purifier,Home & Kitchen,2024-01-06,2024-01-21,Defective,5999,3,New,Ahmedabad
+1883,C7180,Science Fiction,Books,2024-01-13,2024-01-19,Late Delivery,699,10,New,Hyderabad
+1884,C1917,Wireless Mouse,Electronics,2024-01-11,2024-01-17,Other,599,4,Returning,Bangalore
+1885,C7301,Wireless Mouse,Electronics,2024-01-13,2024-01-18,Wrong Size,599,6,New,Delhi
+1886,C1241,Water Purifier,Home & Kitchen,2024-01-22,2024-01-29,Wrong Product,5999,4,Returning,Delhi
+1887,C1880,Football,Sports,2024-01-15,2024-01-21,Other,799,6,Returning,Chennai
+1888,C8875,Sunglasses,Fashion,2024-01-20,2024-02-02,Late Delivery,999,7,Returning,Chennai
+1889,C9341,Vacuum Cleaner,Home & Kitchen,2024-01-05,2024-01-18,Late Delivery,3999,9,New,Pune
+1890,C2997,Badminton Racket,Sports,2024-01-05,2024-01-19,Wrong Product,1299,3,Returning,Ahmedabad
+1891,C2765,Leather Wallet,Fashion,2024-01-04,2024-01-09,Other,899,9,Returning,Chennai
+1892,C8585,Smartwatch,Electronics,2024-01-30,2024-02-14,Late Delivery,2999,7,New,Kolkata
+1893,C7438,History of India,Books,2024-01-05,2024-01-20,Wrong Product,999,5,New,Pune
+1894,C8094,Pressure Cooker,Home & Kitchen,2024-01-22,2024-02-03,Other,2499,10,New,Chennai
+1895,C9200,Pressure Cooker,Home & Kitchen,2024-01-18,2024-02-02,Late Delivery,2499,5,Returning,Pune
+1896,C8506,Business Strategies,Books,2024-01-08,2024-01-14,Other,899,4,New,Chennai
+1897,C2892,Denim Jacket,Fashion,2024-01-22,2024-01-28,Wrong Product,1999,8,New,Bangalore
+1898,C8728,Running Shoes,Fashion,2024-01-01,2024-01-09,Wrong Size,1499,3,Returning,Bangalore
+1899,C9111,Pressure Cooker,Home & Kitchen,2024-01-24,2024-01-31,Late Delivery,2499,3,New,Delhi
+1900,C5751,History of India,Books,2024-01-29,2024-02-03,Other,999,3,Returning,Chennai
+1901,C1266,Business Strategies,Books,2024-01-31,2024-02-13,Other,899,8,New,Kolkata
+1902,C7920,Science Fiction,Books,2024-01-11,2024-01-26,Wrong Size,699,3,New,Ahmedabad
+1903,C2445,Football,Sports,2024-01-01,2024-01-15,Defective,799,6,New,Bangalore
+1904,C9231,Wireless Mouse,Electronics,2024-01-16,2024-01-30,Defective,599,3,New,Kolkata
+1905,C5603,Sunglasses,Fashion,2024-01-29,2024-02-04,Defective,999,7,Returning,Mumbai
+1906,C4585,Sunglasses,Fashion,2024-01-02,2024-01-13,Late Delivery,999,6,New,Mumbai
+1907,C4838,Business Strategies,Books,2024-01-14,2024-01-28,Wrong Product,899,10,New,Ahmedabad
+1908,C1696,Business Strategies,Books,2024-01-08,2024-01-14,Wrong Size,899,6,New,Bangalore
+1909,C7237,Wireless Mouse,Electronics,2024-01-03,2024-01-09,Late Delivery,599,9,Returning,Kolkata
+1910,C1803,Badminton Racket,Sports,2024-01-25,2024-02-08,Other,1299,9,New,Hyderabad
+1911,C4669,Denim Jacket,Fashion,2024-01-19,2024-01-25,Wrong Product,1999,9,Returning,Chennai
+1912,C1609,Vacuum Cleaner,Home & Kitchen,2024-01-26,2024-02-01,Wrong Product,3999,9,New,Bangalore
+1913,C6587,Science Fiction,Books,2024-01-16,2024-01-31,Wrong Product,699,6,New,Bangalore
+1914,C8485,Running Shoes,Fashion,2024-01-31,2024-02-09,Wrong Product,1499,5,Returning,Delhi
+1915,C4685,Vacuum Cleaner,Home & Kitchen,2024-01-27,2024-02-09,Wrong Product,3999,4,Returning,Chennai
+1916,C3357,Laptop Cooling Pad,Electronics,2024-01-30,2024-02-12,Late Delivery,1299,9,Returning,Ahmedabad
+1917,C6098,Pressure Cooker,Home & Kitchen,2024-01-17,2024-01-26,Defective,2499,4,New,Pune
+1918,C6042,Business Strategies,Books,2024-01-01,2024-01-12,Defective,899,3,New,Ahmedabad
+1919,C8340,Air Fryer,Home & Kitchen,2024-01-13,2024-01-28,Defective,4999,9,New,Pune
+1920,C6447,Sunglasses,Fashion,2024-01-11,2024-01-26,Wrong Size,999,6,New,Ahmedabad
+1921,C3435,Laptop Cooling Pad,Electronics,2024-01-03,2024-01-15,Wrong Size,1299,3,Returning,Mumbai
+1922,C6797,Pressure Cooker,Home & Kitchen,2024-01-20,2024-02-02,Wrong Size,2499,7,Returning,Hyderabad
+1923,C7386,Sunglasses,Fashion,2024-01-03,2024-01-17,Other,999,6,New,Pune
+1924,C2482,Vacuum Cleaner,Home & Kitchen,2024-01-03,2024-01-08,Wrong Product,3999,10,Returning,Bangalore
+1925,C2409,Air Fryer,Home & Kitchen,2024-01-28,2024-02-11,Defective,4999,6,Returning,Bangalore
+1926,C2240,Smartwatch,Electronics,2024-01-17,2024-02-01,Other,2999,8,Returning,Kolkata
+1927,C2179,Football,Sports,2024-01-03,2024-01-16,Wrong Size,799,5,Returning,Pune
+1928,C9862,Leather Wallet,Fashion,2024-01-14,2024-01-25,Late Delivery,899,8,New,Kolkata
+1929,C8460,Self-Help Guide,Books,2024-01-11,2024-01-23,Other,499,8,New,Ahmedabad
+1930,C7023,Denim Jacket,Fashion,2024-01-13,2024-01-25,Wrong Product,1999,4,New,Kolkata
+1931,C3435,Air Fryer,Home & Kitchen,2024-01-24,2024-02-03,Wrong Product,4999,5,New,Bangalore
+1932,C3216,Leather Wallet,Fashion,2024-01-27,2024-02-02,Wrong Product,899,9,New,Bangalore
+1933,C6630,Air Fryer,Home & Kitchen,2024-01-26,2024-02-06,Defective,4999,7,New,Ahmedabad
+1934,C3152,Wireless Mouse,Electronics,2024-01-18,2024-01-25,Wrong Size,599,7,New,Chennai
+1935,C1334,Vacuum Cleaner,Home & Kitchen,2024-01-17,2024-01-27,Late Delivery,3999,5,Returning,Delhi
+1936,C5904,Air Fryer,Home & Kitchen,2024-01-31,2024-02-12,Wrong Size,4999,4,New,Bangalore
+1937,C7712,Self-Help Guide,Books,2024-01-31,2024-02-06,Late Delivery,499,7,Returning,Chennai
+1938,C2092,Dumbbells,Sports,2024-01-01,2024-01-08,Wrong Product,2999,6,New,Mumbai
+1939,C9410,Sunglasses,Fashion,2024-01-01,2024-01-09,Defective,999,3,Returning,Delhi
+1940,C4480,Bluetooth Headphones,Electronics,2024-01-01,2024-01-15,Wrong Product,1999,4,Returning,Pune
+1941,C7363,Sunglasses,Fashion,2024-01-26,2024-01-31,Wrong Size,999,6,New,Pune
+1942,C8666,Water Purifier,Home & Kitchen,2024-01-19,2024-01-24,Wrong Size,5999,10,New,Mumbai
+1943,C5243,Smartwatch,Electronics,2024-01-13,2024-01-26,Wrong Size,2999,9,Returning,Ahmedabad
+1944,C8295,Water Purifier,Home & Kitchen,2024-01-11,2024-01-20,Other,5999,10,New,Chennai
+1945,C1862,Sunglasses,Fashion,2024-01-17,2024-01-25,Other,999,10,Returning,Kolkata
+1946,C4795,Leather Wallet,Fashion,2024-01-08,2024-01-22,Other,899,6,New,Chennai
+1947,C2029,Self-Help Guide,Books,2024-01-15,2024-01-24,Wrong Product,499,3,New,Delhi
+1948,C3362,Smartwatch,Electronics,2024-01-08,2024-01-14,Other,2999,9,Returning,Chennai
+1949,C9782,Air Fryer,Home & Kitchen,2024-01-22,2024-01-29,Other,4999,3,Returning,Mumbai
+1950,C2842,Smartwatch,Electronics,2024-01-30,2024-02-14,Wrong Size,2999,6,New,Ahmedabad
+1951,C3312,Pressure Cooker,Home & Kitchen,2024-01-08,2024-01-22,Wrong Product,2499,7,Returning,Hyderabad
+1952,C8807,Badminton Racket,Sports,2024-01-23,2024-02-03,Wrong Product,1299,3,Returning,Mumbai
+1953,C3980,Bluetooth Headphones,Electronics,2024-01-06,2024-01-17,Wrong Product,1999,9,New,Delhi
+1954,C7323,Leather Wallet,Fashion,2024-01-13,2024-01-28,Wrong Product,899,8,New,Hyderabad
+1955,C6656,Science Fiction,Books,2024-01-05,2024-01-13,Wrong Product,699,5,Returning,Chennai
+1956,C5462,Laptop Cooling Pad,Electronics,2024-01-12,2024-01-18,Defective,1299,5,New,Bangalore
+1957,C9556,Wireless Mouse,Electronics,2024-01-06,2024-01-11,Other,599,6,Returning,Kolkata
+1958,C1462,Football,Sports,2024-01-10,2024-01-22,Wrong Product,799,5,New,Chennai
+1959,C9342,Badminton Racket,Sports,2024-01-29,2024-02-09,Late Delivery,1299,6,New,Ahmedabad
+1960,C8501,Vacuum Cleaner,Home & Kitchen,2024-01-05,2024-01-12,Defective,3999,4,New,Mumbai
+1961,C2023,Self-Help Guide,Books,2024-01-21,2024-02-02,Late Delivery,499,6,New,Chennai
+1962,C8941,Business Strategies,Books,2024-01-02,2024-01-08,Wrong Size,899,6,New,Bangalore
+1963,C4423,Pressure Cooker,Home & Kitchen,2024-01-02,2024-01-15,Other,2499,4,Returning,Hyderabad
+1964,C9727,Air Fryer,Home & Kitchen,2024-01-30,2024-02-04,Late Delivery,4999,7,Returning,Delhi
+1965,C8984,Denim Jacket,Fashion,2024-01-02,2024-01-10,Late Delivery,1999,5,Returning,Kolkata
+1966,C7236,Running Shoes,Fashion,2024-01-12,2024-01-19,Defective,1499,7,Returning,Pune
+1967,C8121,History of India,Books,2024-01-16,2024-01-22,Defective,999,8,New,Kolkata
+1968,C8099,Yoga Mat,Sports,2024-01-06,2024-01-16,Late Delivery,599,8,New,Hyderabad
+1969,C8182,History of India,Books,2024-01-14,2024-01-29,Wrong Size,999,6,New,Hyderabad
+1970,C6472,Science Fiction,Books,2024-01-19,2024-01-25,Late Delivery,699,3,New,Hyderabad
+1971,C9000,Dumbbells,Sports,2024-01-24,2024-02-08,Late Delivery,2999,7,New,Delhi
+1972,C1671,Dumbbells,Sports,2024-01-19,2024-02-02,Defective,2999,7,New,Mumbai
+1973,C8514,Science Fiction,Books,2024-01-06,2024-01-17,Wrong Product,699,9,New,Kolkata
+1974,C3156,Yoga Mat,Sports,2024-01-29,2024-02-09,Wrong Product,599,7,Returning,Mumbai
+1975,C1484,Water Purifier,Home & Kitchen,2024-01-10,2024-01-15,Late Delivery,5999,3,Returning,Bangalore
+1976,C2519,Dumbbells,Sports,2024-01-06,2024-01-11,Defective,2999,6,New,Bangalore
+1977,C8657,Sunglasses,Fashion,2024-01-08,2024-01-20,Defective,999,4,Returning,Mumbai
+1978,C4468,Yoga Mat,Sports,2024-01-01,2024-01-10,Late Delivery,599,10,New,Kolkata
+1979,C8544,Running Shoes,Fashion,2024-01-25,2024-01-30,Other,1499,8,Returning,Kolkata
+1980,C4924,Water Purifier,Home & Kitchen,2024-01-07,2024-01-18,Wrong Product,5999,3,New,Kolkata
+1981,C1059,Bluetooth Headphones,Electronics,2024-01-04,2024-01-10,Wrong Product,1999,6,New,Mumbai
+1982,C8214,Denim Jacket,Fashion,2024-01-27,2024-02-01,Wrong Size,1999,7,Returning,Hyderabad
+1983,C3304,Business Strategies,Books,2024-01-17,2024-01-22,Late Delivery,899,4,Returning,Chennai
+1984,C2758,Pressure Cooker,Home & Kitchen,2024-01-20,2024-01-27,Defective,2499,4,Returning,Delhi
+1985,C6970,Denim Jacket,Fashion,2024-01-10,2024-01-22,Other,1999,5,Returning,Ahmedabad
+1986,C8768,Badminton Racket,Sports,2024-01-14,2024-01-28,Defective,1299,3,New,Pune
+1987,C6182,Air Fryer,Home & Kitchen,2024-01-02,2024-01-14,Other,4999,5,New,Mumbai
+1988,C8214,Sunglasses,Fashion,2024-01-30,2024-02-05,Late Delivery,999,3,Returning,Hyderabad
+1989,C2082,Science Fiction,Books,2024-01-11,2024-01-21,Wrong Size,699,3,New,Ahmedabad
+1990,C5404,Denim Jacket,Fashion,2024-01-31,2024-02-07,Wrong Product,1999,9,Returning,Bangalore
+1991,C8728,Laptop Cooling Pad,Electronics,2024-01-26,2024-02-07,Late Delivery,1299,3,Returning,Delhi
+1992,C5368,Yoga Mat,Sports,2024-01-17,2024-01-27,Wrong Product,599,8,New,Delhi
+1993,C3723,History of India,Books,2024-01-06,2024-01-16,Wrong Product,999,5,Returning,Mumbai
+1994,C5961,Running Shoes,Fashion,2024-01-06,2024-01-16,Wrong Product,1499,6,Returning,Ahmedabad
+1995,C9372,Vacuum Cleaner,Home & Kitchen,2024-01-03,2024-01-14,Defective,3999,5,New,Hyderabad
+1996,C4432,Business Strategies,Books,2024-01-27,2024-02-07,Defective,899,6,Returning,Bangalore
+1997,C1565,Air Fryer,Home & Kitchen,2024-01-27,2024-02-05,Other,4999,6,Returning,Chennai
+1998,C7210,Smartwatch,Electronics,2024-01-27,2024-02-07,Wrong Product,2999,4,New,Chennai
+1999,C6495,Badminton Racket,Sports,2024-01-26,2024-02-10,Other,1299,9,Returning,Hyderabad
+2000,C6112,Pressure Cooker,Home & Kitchen,2024-01-05,2024-01-16,Wrong Product,2499,5,Returning,Mumbai
